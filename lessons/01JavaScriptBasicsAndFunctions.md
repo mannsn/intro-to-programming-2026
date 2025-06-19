@@ -1,0 +1,61 @@
+# Lesson 1
+
+**We have several parts to our lesson this week**
+
+- Problem Solving
+- Javascript Basics: Variables, Strings, Types, Conditions and Function
+- Debugging Basics
+- Console / Terminals
+- Software Repositories / Github
+
+## Problem Solving
+
+- [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-2025/wiki/Problem-Solving)
+
+## Javascript Basics
+
+**You can _either_ use the written Odin Project lessons _or_ the video lessons in Scrimba. You can do both if you have them time and want to, but using just one or the other will teach what is needed to complete the coding assignments.**
+
+For the Odin Project, Go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
+
+### Odin Project
+
+- [The Odin Project – Fundamentals Part 1](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-1)
+- [The Odin Project – Fundamentals Part 2](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-2)
+- [The Odin Project – Fundamentals Part 3](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/fundamentals-part-3)
+
+### Scrimba
+
+- [V2 Scrimba - JS Deep Dive - Variables and Strings](https://v2.scrimba.com/javascript-deep-dive-c0a/~04)
+- [V2 Scrimba - JS Deep Dive - Types & Conditionals](https://v2.scrimba.com/javascript-deep-dive-c0a/~0g)
+- [V2 Scrimba - JS Deep Dive - Functions](https://v2.scrimba.com/javascript-deep-dive-c0a/~0q)
+
+## Debugging Basics
+
+Software debugging is the process of finding and fixing errors (bugs) in computer programs. It is a crucial (and large) part of software development. Proper debugging ensures programs function as intended and are reliable.
+
+The most basic method of debugging is to log data directly from your program. You will use these logs to see what the code you have written is actually doing.
+
+The AI Assignment Reviewer IS NOT a substitute for debugging your program. The reviewer will give you valuable information on things that might be wrong in your code, but is not the same as actually debugging your code.
+
+## Console / Terminal Windows
+
+In programming, a console is a text-based interface used for interacting with a computer program or operating system. It allows users to input commands and receive output, often in the form of text, directly from the program. This interface is also commonly used for debugging and troubleshooting code
+
+Console windows are also knows as terminal windows. You will also sometimes hear the term command-line interface (CLI) which means you are typing commands to interact with the program or system.
+
+We will talk a little more about console windows in future lessons, but for now, all you need to know is that when you run the command
+
+```javascript
+console.log("string to log)
+```
+
+The data located between the parenthesis is logged to the console window which is part of the embedded/interactive assignment on the javascript lesson pages.
+
+## Software Repositories
+
+A software repository, often called a "repo", is a centralized storage location for code and related files used in software development. Software repositories allos developers to track changes to code, revert to previous versions of code and merge different branches of development.
+
+Software repositories are especially important on projects being developed by a software team where multiple people are working on the same code base. This is true for the majority of software projects.
+
+There are many cloud based software repositories. In this class we will use GitHub which is based on git which is a distributed version control system. We will learn more about git in lesson 2.
