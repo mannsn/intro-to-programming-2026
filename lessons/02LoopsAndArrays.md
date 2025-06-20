@@ -1,26 +1,11 @@
 # Lesson 2
 
-**We have several parts to our lesson this week**
-
+**Key topics for Lesson 2**
 
 - Javascript Loops 
 - Javascript Arrays 
 - Scope
 - Version Control Systems / Git
-
-
-You can either use the written Odin Project lessons or the video lessons in Scrimba.
-
-
-
-
-- [V2 Scrimba - JS Deep Dive - Arrays](https://v2.scrimba.com/javascript-deep-dive-c0a/~01h)
-- **NOTE: Watch only the first four videos in this playlist ( (1) Module Intro: Arrays, (2) Build Flexible Collections with Arrays, (3) Challenge: Your First Array, and (4) Check Element Existence in Arrays ). The rest of the topics we will cover in Week 5.**
-  - **If you are getting an alert saying "Only available to subscribers" when trying to access the JS Deep Dive - Arrays content, you will need to be sure your are logged in to Scrimba with the email address we have on file for you, and that you have redeemed the link to free access you were emailed**
-
-The following material is an excerpt from The Odin Project – Fundamentals Part 4.  That section also covers Array Methods and Test Driven Development which will be covered later in this class. For convenience we've copied the Loop, Array, and Knowledge Check information from the Fundamentals Part 4 section below.
-
-Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
 
 ## **Loops**
 
@@ -32,6 +17,11 @@ Computers don’t get tired, and they’re really, *really* fast! For that rea
 ## **Arrays**
 
 Strings and numbers may be our building blocks, but as your scripts get more complex, you’re going to need a way to deal with large quantities of them. Luckily, JavaScript has a couple of data types that are used for just that. An Array is simply an ordered collection of items (Strings, numbers, or other things).
+
+- [JS Deep Dive - Module Intro: Arrays](https://scrimba.com/javascript-deep-dive-c0a/~01h)
+- [JS Deep Dive - Build Flexible Collection with Arrays](https://scrimba.com/javascript-deep-dive-c0a/~01i)
+- [JS Deep Dive - Challege: Your First Array](https://scrimba.com/javascript-deep-dive-c0a/~01j)
+- [JS Deep Dive - Check Element Existence in Arrays](https://scrimba.com/javascript-deep-dive-c0a/~01k)
 
 1. [This tutorial](https://www.w3schools.com/js/js_arrays.asp) is a great introduction.
 2. [This article](https://www.w3schools.com/js/js_array_methods.asp) covers some of the most useful built-in array methods. These fundamentals are something you’ll use every day, so don’t rush too much and miss out!
@@ -51,50 +41,12 @@ This section contains questions for you to check your understanding of the lesso
 - [What is the break statement?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#exiting_loops_with_break)
 - [What is the continue statement?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#skipping_iterations_with_continue)
 
-
 ## Scope
+
 In JavaScript, scope defines the accessibility of variables, functions, and objects within different parts of your code. It determines where these elements are visible and can be referenced. 
 
-https://scrimba.com/the-tricky-parts-of-javascript-c0i/~01
+https://www.w3schools.com/js/js_scope.asp
 
-
-#### Global Scope
-Variables declared in the global scope are accessible from anywhere in your program.
-```javascript
-const globalVar = "I am global";
-function showGlobal() {
-  console.log(globalVar); // Accessible here   
-  }
-  showGlobal();
-  console.log(globalVar); // Accessible here
-```
-#### Function Scope
-Variables declared inside a function are only accessible within that function. They are not accessible from outside the function. 
-
-```javascript
-function myFunction() {
-const functionVar = "I am inside a function";
-console.log(functionVar); // Accessible here
-}
-myFunction();
-// console.log(functionVar); // This would cause an error
-```
-#### Block Scope
-Introduced with let and const keywords (ES6), block scope means variables declared within a block (defined by curly braces {} like in if statements, 
-
-```javascript
-if (true) {
-const blockVar = "I am inside a block";
-console.log(blockVar); // Accessible here
-}
-// console.log(blockVar); // This would cause an error
-```
-
-#### Module Scope
-When working with JavaScript modules, variables and functions declared within a module are scoped to that module by default. They are not globally accessible unless explicitly exported.
-
-
-Understanding scope is crucial for writing organized, maintainable, and bug-free JavaScript code, as it helps prevent unintended variable overwrites and improves code clarity.
 
 ## Version Control System / Git
 
@@ -106,11 +58,13 @@ Git can be confusing when you first start learning about it.  There are quite a 
 
 When you created your GitHub repository, you created a repository in a cloud environment.  while you can edit files remotely, you will want to have your code in a local development environment where you can easily run and debug it.  This week, we are going to copy our software repository to our local computer.  This is called cloning.  There are gui interfaces that will let you submit git commands, but we are going to learn how to submit the commands through a terminal interface.
 
+The following information will help you setup git on your local machine. Remember to  go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there also.
 
-**TBD - insert some of the slides that we have here**
+- **[The Odin Project – Setting Up Git](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git)**
 
-**TBD - do we want a short video as well?**
+***TBD - insert some of the slides that we have here***
 
+***TBD - do we want a short video as well?***
 
 Here is an online game that might help you visual how Git works.
 - [Oh My Git!](https://ohmygit.org/) 

@@ -1,15 +1,5 @@
-**NOTE: If the CodeSandbox file gets updated, the code example below may not be up to date.  You can confirm the most recent version of this assignment by clicking this:**
-[Link to CodeSandbox Assignment](https://codesandbox.io/p/sandbox/lesson-2-javascript-loops-and-arrays-2025-wzp3tj?file=%2Fsrc%2Findex.mjs)
 
 ``` javascript
-//--------------- IMPORTANT!!! ---------------
-
-// Use the keyboard shortcut Alt + Z (for PC) or Option + Z (for Mac) to allow word wrap on this document.  Word wrap breaks the lines so you don't have to keep scrolling left and right to read.
-
-//READ THE INFORMATION IN THE BROWSER WINDOW PANEL ON THE RIGHT BEFORE BEGINNING YOUR ASSIGNMENT!!
-
-//---------- OVERVIEW AND INSTRUCTIONS ----------
-
 //----------------------------------
 // LESSON 2 LOOPS AND ARRAYS
 //----------------------------------
