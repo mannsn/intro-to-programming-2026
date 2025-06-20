@@ -1,6 +1,6 @@
 # Lesson 1
 
-**We have several parts to our lesson this week**
+**Key topics for Lesson 1**
 
 - Problem Solving
 - Javascript Basics: Variables, Strings, Types, Conditions and Function
@@ -10,7 +10,7 @@
 
 ## Problem Solving
 
-- [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-2025/wiki/Problem-Solving)
+- [Problem-Solving](../assets/Problem-Solving.md)
 
 ## Javascript Basics
 
@@ -59,3 +59,13 @@ A software repository, often called a "repo", is a centralized storage location 
 Software repositories are especially important on projects being developed by a software team where multiple people are working on the same code base. This is true for the majority of software projects.
 
 There are many cloud based software repositories. In this class we will use GitHub which is based on git which is a distributed version control system. We will learn more about git in lesson 2.
+
+***TBD - Where do we put this part of the assignment?***
+
+### Now we are going to create a repository of our own on GitHub 
+Create a new repository in your GitHub account by following these steps:
+   - [ ] Go to your GitHub page and click the Repositories tab
+   - [ ] Click the green "New" button in the top right
+   - [ ] Fill in the fields to give your repository a name (use your name-**_classname_** as the name example: `maria-santiago-jupiter`) and description (example: portfolio project for Intro to Programming course with Code the Dream)
+   - [ ] Be sure PUBLIC is selected and check the "Initialize this repository with: Add a README file" check box.
+   - [ ] Click "Create Repository"

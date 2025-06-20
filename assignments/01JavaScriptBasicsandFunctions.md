@@ -171,17 +171,3 @@
 
 // PUT YOUR CODE HERE
 ```
-
-### Now we are going to create a repository of our own on GitHub 
-Create a new repository in your GitHub account by following these steps:
-   - [ ] Go to your GitHub page and click the Repositories tab
-   - [ ] Click the green "New" button in the top right
-   - [ ] Fill in the fields to give your repository a name (use your name-**_classname_** as the name example: `maria-santiago-jupiter`) and description (example: portfolio project for Intro to Programming course with Code the Dream)
-   - [ ] Be sure PUBLIC is selected and check the "Initialize this repository with: Add a README file" check box.
-   - [ ] Click "Create Repository"
-
-### Submit Assignment
-Now let's make sure that lesson branch will be reviewed.
-   - [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-5 has a recent push" notice with a green "Compare & pull request" button.  Click that button
-   - [ ] Feel free to put notes to yourself or notes for your reviewer in the description (be sure you're including any questions to your reviewer in your assignment submission form though!) and click the green "Create pull request" button.
-   - [ ] Copy the address of your pull request page (should look like `https://github.com/yourUsername/name-classname/pull/1`) and paste it into your assignment submission form.
