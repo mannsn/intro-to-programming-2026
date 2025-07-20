@@ -14,7 +14,6 @@
 
 //  console.log("Q#: ", functionName(anyInput))
 
-// Please be sure to check the output of your called functions and console logs in the Console tab to the bottom right of this screen. If your Console is not showing, click the Inspect Button in the top right (see the Welcome to week 2 information to the right if you need help finding that)  Check to make sure that the output you get in your Console is the expected output.
 
 // ---------- QUESTION 1 ----------
 // Write a function called 'repeat' that takes 1 integer parameter and, using a for or while loop, prints out the string "Hello World!" to the console the same number of times as the parameter. NOTE: for this question, since your console log should be inside your function, you only need to call/invoke the function after you write it rather than call/invoke it inside of a console.log.
@@ -87,6 +86,7 @@
 // EXAMPLE LOGS:
 //    console.log("Q7: ", getElementAt(full, 2));
 //    console.log("Q7: ", getElementAt(full, 7));
+
 // EXAMPLE OUTPUT: (if the array assigned to variable 'full' is ["dream", 19, "code", 24, 180])
 //    Q7: code
 //    Q7: null
@@ -99,6 +99,7 @@
 // EXAMPLE LOG:
 //    console.log("Q8: ", insertInArray(full));
 //    console.log("original array: ", full);
+
 // EXAMPLE OUTPUT: (if the array assigned to variable 'full' is ["dream", 19, "code", 24, 180])
 //    Q8: ["dream", 0, 19, "code", 24, 180]
 //    original array: ["dream", 19, "code", 24, 180]
@@ -130,10 +131,9 @@
 // ---------- QUESTION 10 ----------
 // Create a variable called 'numbers' and assign it an array with at least 3 numbers as elements (example: [10, 3, 4]).  Write a function called 'calculateTotal' that takes one array parameter and loops through the array in order to return the sum of all the array elements.
 
-// STRETCH GOAL: write another version of calculateTotal (call it calculateTotal2) using the 'reduce()' method
-
 // EXAMPLE LOG:
 //    console.log("Q10: ", calculateTotal(numbers));
+
 // EXAMPLE OUTPUT: (if the array assigned to variable 'numbers' is [3, 4, 2 ,8])
 //    Q10: 17
 
@@ -142,11 +142,11 @@
 // ---------- QUESTION 11 ----------
 // Write two functions called 'findEvens' and 'findOdds' that each take one array parameter and each returns a NEW Array of all the even or odd numbers as indicated.  NOTE: Assigning an array to a new variable does not make a copy, it's another reference to the same array.  To make a copy you can use the slice() method as in this example:
 // let newArray = originalArray.slice()
-// STRETCH GOAL: write another version of findEvens or findOdds using the `filter()` method
 
 // EXAMPLE LOG:
 //    console.log("Q11 evens: ", findEvens([10,2,3,19,7,6,93]));
 //    console.log("Q11 odds: ", findOdds([10,2,3,19,7,6,93]));
+
 // EXAMPLE OUTPUT:
 //    Q11 evens: [10,2,6]
 //    Q11 odds: [3,19,7,93]
@@ -156,7 +156,6 @@
 // ---------- QUESTION 12 ----------
 // Write a function called 'makeSquares' that takes one array parameter and returns a NEW Array with the squared values of each of the numbers.  NOTE: Assigning an array to a new variable does not make a copy, it's another reference to the same array.  To make a copy you can use the slice() method as in this example:
 // let newArray = originalArray.slice()
-// STRETCH GOAL: write another version makeSquares using the `map()` method
 
 // EXAMPLE LOG:
 //    console.log("Q12: ", makeSquares([2,5,8]));
@@ -166,13 +165,42 @@
 // PUT YOUR CODE HERE
 
 // ---------- QUESTION 13 ----------
-// Back in the old days, the early 2000s, this was a famous technical interview question. Write a function definition that takes NO parameters. The function will loop from 1 to 15 and return an array of numbers. While looping, the function will check if the current value in the loop is divisible by 3, by 5, or by both. If the current value in the loop is divisible by 3, the function will add the string "fizz" to an array. If the current value in the loop is divisible by 5, the function will add the string "buzz" to the array. If the current value in the loop is divisible by both, the function will add the value "fizzbuzz" to the array. If the number isn't divisible by 3, 5, OR both, it will add the number to the array.  The function will return the array of values.
+// Back in the "old days", the early 2000s, this was a famous technical interview question. Write a function definition that takes NO parameters. The function will loop from 1 to 15 and return an array of numbers. While looping, the function will check if the current value in the loop is divisible by 3, by 5, or by both. If the current value in the loop is divisible by 3, the function will add the string "fizz" to an array. If the current value in the loop is divisible by 5, the function will add the string "buzz" to the array. If the current value in the loop is divisible by both, the function will add the value "fizzbuzz" to the array. If the number isn't divisible by 3, 5, OR both, it will add the number to the array.  The function will return the array of values.
 
 // EXAMPLE LOG:
-//    console.log("BONUS: ", fizzBuzz();
+//    console.log("Q13: ", fizzBuzz();
 // EXAMPLE OUTPUT:
-//    BONUS: [1,2,'fizz',4,'buzz','fizz',7,8,'fizz','buzz',11,'fizz',13,14,'fizzbuzz']
+//    Q13: [1,2,'fizz',4,'buzz','fizz',7,8,'fizz','buzz',11,'fizz',13,14,'fizzbuzz']
 
 // PUT YOUR CODE HERE
+
+
+// ---------- QUESTION 14 ----------
+// Write a function called testScope that shows the difference between global, function and block scope.
+// Create a 
+
+
+Your program should: 
+// Create 3 variables called globalVariable, fuctionVariable, blockVarible.
+// 
+
+// EXAMPLE LOG:
+//    console.log("Q13: ", fizzBuzz();
+// EXAMPLE OUTPUT:
+//    Q13: [1,2,'fizz',4,'buzz','fizz',7,8,'fizz','buzz',11,'fizz',13,14,'fizzbuzz']
+
+// PUT YOUR CODE HERE
+
+let block = 0
+console.log (block);
+test();
+function test () {
+let block = 1
+console.log (block);
+for (i = 0; i++; i < 10){
+                         let block = 2
+                         console.log ("test" + i + block);
+                         }
+}
 
 ```

@@ -16,8 +16,6 @@
 // To use a function in a console.log you invoke/call the function as part of the console log like this:
 //  console.log("Q#: ", functionName(anyInput))
 
-// Please be sure to check the output of your called functions and console logs in the Console tab to the bottom right of this screen. If your Console is not showing, click the Inspect Button in the top right (see the Welcome to class information to the right if you need help finding that)  Check to make sure that the output you get in your Console is the expected output.
-
 // ---------- QUESTION 1 ----------
 // Declaring and giving string values to variables.
 // Create three variables.  First let's make sure we're using "camel case" where all letters are lowercase except for the first letter of words that are in the middle.  This is the accepted standard for Javascript code.  Your first variable should be titled "firstName" with the value of your first name as a string.  Your second variable should be titled "lastName" with the value of your last name as a string.  The last variable should be titled "country" with the value of the name of the country where you were born as a string.
