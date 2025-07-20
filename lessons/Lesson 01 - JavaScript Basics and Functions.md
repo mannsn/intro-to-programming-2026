@@ -30,6 +30,17 @@ For the Odin Project, Go to each link in this list and read through the content 
 - [V2 Scrimba - JS Deep Dive - Types & Conditionals](https://v2.scrimba.com/javascript-deep-dive-c0a/~0g)
 - [V2 Scrimba - JS Deep Dive - Functions](https://v2.scrimba.com/javascript-deep-dive-c0a/~0q)
 
+## Javascript Naming and Style Conventions
+
+Naming and style conventions are a set of widely accepted guidelines for naming variables, functions, classes and other identifiers. They are used to improve code readability and maintainability.
+
+https://www.w3schools.com/js/js_conventions.asp
+
+It is also important to consider the readability of your code when you are naming variables and functions. Avoid abbreviations unless they are commonly known.  
+'i' and 'j' are widely used as loop counters and array indices.
+
+Well-named variables help both the original developer and others understand what the code is doing without needing to decipher vague or cryptic labels. For example, a variable named totalPrice is far more informative than one named tp, instantly conveying its purpose. Descriptive names reduce confusion, make debugging easier, and allow for more efficient collaboration among a team of developers.
+
 ## Debugging Basics
 
 Software debugging is the process of finding and fixing errors (bugs) in computer programs. It is a crucial (and large) part of software development. Proper debugging ensures programs function as intended and are reliable.
@@ -60,12 +71,14 @@ Software repositories are especially important on projects being developed by a 
 
 There are many cloud based software repositories. In this class we will use GitHub which is based on git which is a distributed version control system. We will learn more about git in lesson 2.
 
-***TBD - Where do we put this part of the assignment?***
+**_TBD - Where do we put this part of the assignment?_**
 
-### Now we are going to create a repository of our own on GitHub 
+### Now we are going to create a repository of our own on GitHub
+
 Create a new repository in your GitHub account by following these steps:
-   - [ ] Go to your GitHub page and click the Repositories tab
-   - [ ] Click the green "New" button in the top right
-   - [ ] Fill in the fields to give your repository a name (use your name-**_classname_** as the name example: `maria-santiago-jupiter`) and description (example: portfolio project for Intro to Programming course with Code the Dream)
-   - [ ] Be sure PUBLIC is selected and check the "Initialize this repository with: Add a README file" check box.
-   - [ ] Click "Create Repository"
+
+- [ ] Go to your GitHub page and click the Repositories tab
+- [ ] Click the green "New" button in the top right
+- [ ] Fill in the fields to give your repository a name (use your name-**_classname_** as the name example: `maria-santiago-jupiter`) and description (example: portfolio project for Intro to Programming course with Code the Dream)
+- [ ] Be sure PUBLIC is selected and check the "Initialize this repository with: Add a README file" check box.
+- [ ] Click "Create Repository"

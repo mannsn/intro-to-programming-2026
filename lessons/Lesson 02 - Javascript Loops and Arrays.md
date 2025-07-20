@@ -66,5 +66,3 @@ The following information will help you setup git on your local machine. Remembe
 
 ***TBD - do we want a short video as well?***
 
-Here is an online game that might help you visual how Git works.
-- [Oh My Git!](https://ohmygit.org/) 
