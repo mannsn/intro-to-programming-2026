@@ -1,99 +1,8 @@
-**NOTE: If the CodeSandbox file gets updated, the code example below may not be up to date.  You can confirm the most recent version of this assignment by clicking this:**
-[Link to CodeSandbox Assignment](https://codesandbox.io/p/sandbox/lesson-4-javascript-array-methods-2025-w4mycz?file=%2Fsrc%2Findex.mjs)
-
 ``` javascript
 
 //----------------------------------
 // LESSON 4 ALGORITHMS
 //----------------------------------
-
-// ----- Practice JS array methods: forEach -----
-//---------- QUESTION 1 ----------
-// Create an variable called 'names' and assign it an array of people's names.  Write a function called 'printNames' that uses the forEach array method to log each name in an array to the console.  Remember, since you're using the console.log in the function, you'll just want to call your function and pass it the array of names when testing your code.
-
-// EXAMPLE CALL:
-//    let names = ["Juan Marcos", "Aleksandra Ivanov", "Zhang Wei", "Bernice King"];
-//    console.log("Q1 printNames:");
-//    printNames(names);
-
-// EXAMPLE OUTPUT:
-//   Q1 printNames:
-//   Juan Marcos
-//   Aleksandra Ivanov
-//   Zhang Wei
-//   Bernice King
-
-// PUT YOUR CODE HERE
-
-//---------- QUESTION 2 ----------
-// Create a variable called 'trees' and assign it an array of 3 objects.  Each object should have a 'type' property and a 'height' property.  You can use 'type' to describe the type of tree (ex. Dogwood, Maple, Oak, Elm, etc.) and give them any height.  Now write a function called 'logTreeType' that uses forEach to log the type of each tree object to the console.
-
-// EXAMPLE CALL:
-//   const trees = [
-//     { type: "oak", height: "30m" },
-//     { type: "elm", height: "25m" },
-//     { type: "birch", height: "18m" } ]
-//   console.log("Q2 logTreeType:");
-//   logTreeType(trees);
-
-// EXAMPLE OUTPUT:
-//   Q2 logTreeType:
-//   oak
-//   elm
-//   birch
-
-// PUT YOUR CODE HERE
-
-//---------- QUESTION 3 ----------
-// Create a variable called 'myNumbers' and assign it an array of numbers.  Now write a function caled 'totalPoints' that uses forEach to add up all the numbers in that array of numbers.
-
-// EXAMPLE CALL:
-//   let myNumbers = [1, 2, 7, 5, 8];
-//   console.log (`Q3 totalPoints [${myNumbers}]:`, totalPoints(myNumbers));
-
-// EXAMPLE OUTPUT:
-//   Q3 totalPoints [1,2,7,5,8]:  23
-
-// Try a few different input arrays to verify your code is working.
-
-// PUT YOUR CODE HERE
-
-//---------- QUESTION 4 ----------
-// Create a variable called 'myWords' and assign it an array of words.  Then write a function called 'buildSentence' that takes in an array of words and uses forEach to add the strings together. It should also add a space, " ", after each word.
-
-// EXAMPLE CALL:
-//    myWords = ["You","can","if","you","think","you","can","!"];
-//    console.log (`Q4 buildSentence [${myWords}]: `, buildSentence(myWords));
-
-// EXAMPLE OUTPUT:
-//   Q4 buildSentence [You,can,if,you,think,you,can,!]:  You can if you think you can !
-
-// Note: You should have a space after the ! too
-// Try a few different input arrays to verify your code is working.
-
-// PUT YOUR CODE HERE
-
-//---------- QUESTION 5 ----------
-// Create a variable called 'decimals' and assign it an array of decimal numbers.  Write a function called 'logPercentages' that takes an array of decimal numbers and uses forEach to log each one with the numbers formatted as percentages. That means:
-//    Multiply by 100
-//    Include the percent symbol (%) at the end of the string
-
-// EXAMPLE CALL:
-//   let decimals = [0.75, 0.91, 0.2, 1.34];
-//   console.log("Q5 logPercentages:");
-//   logPercentages(decimals);
-
-// EXAMPLE OUTPUT:
-// Q5 logPercentages:
-//   75%
-//   91%
-//   20%
-//   134%
-
-// PUT YOUR CODE HERE
-
-
-
 
 // ---------- QUESTION 8 ----------
 // Create a function called 'absDiff' that takes 2 parameters and returns the absolute difference between them. For example, if the first parameter is smaller than the second, the first parameter will be subtracted from the second. If the first parameter is larger than the second, the second parameter will be subtracted from the first. If they are both equal, return the first parameter subtracted by the second.  It's important to consider boundary cases - situations that may change how you expect your code to behave.  For this reason, work with same numbers and negative numbers as well to see if you get your absDiff function to calculate the absolute difference regardless of number type.
@@ -138,15 +47,13 @@
 
 // PUT YOUR CODE HERE
 
-// ---------- QUESTION 11 ----------
-// Declare a variable named "diameter" and assign it an integer value. Through a series of math calculations and variables, calculate the "radius" (which is half the diameter), the "circumference" (which is 2 multiplied by the Math value pi, multiplied by the radius) and the "area" (which is the Math value pi, multiplied by the radius squared).
-
-// PUT YOUR CODE HERE
-
-// Don't forget your console.logs!
-
 // ---------- QUESTION 12 ----------
-// Let's make a useful math problem - create a tip calculator! Declare two variables called "billTotal" and "tipPercentage". Assign billTotal a floating point number with two decimal places. Assign tipPercentage a floating point number between 0.1 and 0.9. Create a third variable called "tip" that will multiply tipPercentage and billTotal then use the addition assignment operator to add that amount back to billTotal. Example: if our bill 35.75 and we want to leave a 20% tip (0.2) our new billTotal should come out to 42.90.
+// Let's make a useful math problem - create a tip calculator!  Create a function named tipCalculator that takes two parameters - billTotal and tipPercentage.   Return the total bill amount
+
+// EXAMPLE LOG:
+//    console.log("Q12 tipCalculator: ", tipCalculator (20, .20));
+// EXAMPLE OUTPUT:
+//    Q12 tipCalculator: 24
 
 // PUT YOUR CODE HERE
 
@@ -171,3 +78,98 @@
 //    Q14: 3.5
 
 // PUT YOUR CODE HERE
+
+
+// ---------- QUESTION 14 ----------
+// Create a function named isPrime, that returns true or false based on whether the number is prime or not.
+
+// EXAMPLE LOG:
+//   
+// EXAMPLE OUTPUT: 
+//   
+
+// ---------- QUESTION 14 ----------
+// Now, using the function created in the previous question, create another function named getPrimesUpTo(limit) that returns an array of all primes up and including the input number. 
+
+// EXAMPLE LOG:
+//   
+// EXAMPLE OUTPUT:
+//   
+
+
+// ---------- QUESTION 14 ----------
+// No, using the function created in the previous question, create another function named getPrimesUpTo(limit) that returns an array of all primes up and including the input number. 
+
+// EXAMPLE LOG:
+//   
+// EXAMPLE OUTPUT:
+//   
+
+// ---------- QUESTION 14 ----------
+// We're going to write several functions that calculate a student's grade  First, write a function calculateAverage(scores) that calculates a student's average based on an input array of scores.
+
+// EXAMPLE LOG:
+//   
+// EXAMPLE OUTPUT:
+//   
+
+// ---------- QUESTION 14 ----------
+// Now, based on that average, create a function - getLetterGrade(average) - that takes that average and returns a letter grade based on the following scale.
+// A: 90–100
+// B: 80–89
+// C: 70–79
+// D: 60–69
+// F: below 60
+
+// EXAMPLE LOG:
+//   
+// EXAMPLE OUTPUT:
+//  
+
+// ---------- QUESTION 14 ----------
+// Create a 3rd function that return true if a student's grade is A, B or C, false otherwise. 
+//
+
+// EXAMPLE LOG:
+//   
+// EXAMPLE OUTPUT:
+//  
+
+// ---------- QUESTION 14 ----------
+// Create a function named printClassResult (className, student, scores) that utilizes all three functions to output information on the class.
+//
+
+// EXAMPLE LOG:
+//   
+// EXAMPLE OUTPUT:
+//   Q14: History 101 -Jane Doe: Average: 86.6, Grade: B, Passed: true
+
+
+// ---------- QUESTION 5 ----------
+// Now, let's see how to use a callback.  First, create a function that simulates pushing a button.  Name the function buttonPushed and log the message "The button was pushed!" in the function.
+
+// EXAMPLE CALL: (the log is within the function, so you do not need to log the call)
+//    buttonPushed();
+
+// EXAMPLE OUTPUT:  
+//   The button was pushed!
+
+// PUT YOUR CODE HERE
+
+
+// ---------- QUESTION 6 ----------
+// Now, create a function called simulateButtonPush and pass the function created in question 5 to that function.
+
+// EXAMPLE CALL: (the log is within the function, so you do not need to log the call)
+//    simulateButtonPush(buttonPushed);
+
+// EXAMPLE OUTPUT: (if your 'myPet' object from Question 1 is about any animal other than a dog)
+//   The button was pushed!
+
+// PUT YOUR CODE HERE
+
+
+
+
+
+```
