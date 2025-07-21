@@ -180,27 +180,7 @@
 // Create a 
 
 
-Your program should: 
-// Create 3 variables called globalVariable, fuctionVariable, blockVarible.
-// 
-
-// EXAMPLE LOG:
-//    console.log("Q13: ", fizzBuzz();
-// EXAMPLE OUTPUT:
-//    Q13: [1,2,'fizz',4,'buzz','fizz',7,8,'fizz','buzz',11,'fizz',13,14,'fizzbuzz']
+// TBD
 
 // PUT YOUR CODE HERE
 
-let block = 0
-console.log (block);
-test();
-function test () {
-let block = 1
-console.log (block);
-for (i = 0; i++; i < 10){
-                         let block = 2
-                         console.log ("test" + i + block);
-                         }
-}
-
-```
