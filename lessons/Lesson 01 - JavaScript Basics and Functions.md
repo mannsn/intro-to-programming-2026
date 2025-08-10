@@ -49,7 +49,12 @@ The most basic method of debugging is to log data directly from your program. Yo
 
 The AI Assignment Reviewer IS NOT a substitute for debugging your program. The reviewer will give you valuable information on things that might be wrong in your code, but is not the same as actually debugging your code.
 
-## Console / Terminal Windows
+
+## Testing
+TBD - maybe add more about testing / edge cases here?
+
+
+
 
 In programming, a console is a text-based interface used for interacting with a computer program or operating system. It allows users to input commands and receive output, often in the form of text, directly from the program. This interface is also commonly used for debugging and troubleshooting code
 
