@@ -1,12 +1,35 @@
 
+## **Algorithms**
+This week we are going to look at algorithms.  An algorithm sounds like it might be something hard and complex, but it really is just a set of steps that you are going to code in order to accomplish an end goal. An algorithm is just a set of step-by-step instructions to solve a specific problem or perform a task.
 
-This week we are going to look at algorithms.  An algorithm sounds like it might be something hard and complex, but it really is just a set of steps that you are going to code in order to accomplish an end goal. An algorithm is just a set of step-by-step instructions written in Javascript to solve a specific problem or performa  task.
+Here is a non-coding explanation of algorithms, which can be a helpful way to think about some of the problems we are trying to solve.
+https://www.learning.com/blog/7-examples-of-algorithms-in-everyday-life-for-students/
 
 
 TBD - add more about functions here ??
 
-TBD - maybe add more about testing / edge cases here?
+## **Pseudocode**
 
+As the problems you are trying to solve become more complex, it can be helpful to write the steps of your program down in plain language instead of jumping straight to code.  Even experienced developers do this as a way of thinking about the problem they are trying to solve without having to drill down into the specifics of how to code it.  
+
+Pseudocode will not compile or run, but can be made as a set of comments with code filled in later in the appropriate places.
+
+Let's take the simple example of a tip calculator which will be one of your questions for assignment 4.
+
+```jsx
+// We know it's a function and that it takes 2 parameters, so we'll just go ahead and code that part
+function tipCalculator ( billTotal, tipPercentage) {   
+
+  // Check the parameters and make sure they are valid
+
+  // Multiply the total by the tip percentage which gives us the tip
+
+  // Add the tip to the bill total to get the final amount paid
+
+  // Return the final amount paid 
+
+}
+```
 
 ## **Callbacks**
 
