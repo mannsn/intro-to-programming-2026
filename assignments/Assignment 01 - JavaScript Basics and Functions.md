@@ -163,9 +163,10 @@
 // Now let's work with strings... Create two variables named 'word1' and 'word2' and assign them any strings you want.  Then create a function called 'biggestStringLength' that takes word1 and word2 as parameters and returns the length of the longer string. If they are of equal length, just return that length.  Stretch your skills by making an empty string and seeing what happens in that situation.
 
 // EXAMPLE LOG:
-//    console.log("Q15: ", biggestStringLength(word1, word2));
+//   console.log("Q15: ", biggestStringLength(word1, word2));
 // EXAMPLE OUTPUT: (if your word1 was 'Code' and word2 was 'Dream')
-//    Q15: 5
+//   Q15: 5
 
 // PUT YOUR CODE HERE
+
 ```
