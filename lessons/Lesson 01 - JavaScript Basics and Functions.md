@@ -10,7 +10,7 @@
 
 ## Problem Solving
 
-- [Problem-Solving](../assets/Problem-Solving.md)
+- [Problem Solving](../assets/Lesson01/Lesson01-Problem-Solving.md)
 
 ## Javascript Basics
 
@@ -32,41 +32,28 @@ For the Odin Project, Go to each link in this list and read through the content 
 
 ## Javascript Naming and Style Conventions
 
-Naming and style conventions are a set of widely accepted guidelines for naming variables, functions, classes and other identifiers. They are used to improve code readability and maintainability.
-
-https://www.w3schools.com/js/js_conventions.asp
-
-It is also important to consider the readability of your code when you are naming variables and functions. Avoid abbreviations unless they are commonly known.  
-'i' and 'j' are widely used as loop counters and array indices.
-
-Well-named variables help both the original developer and others understand what the code is doing without needing to decipher vague or cryptic labels. For example, a variable named totalPrice is far more informative than one named tp, instantly conveying its purpose. Descriptive names reduce confusion, make debugging easier, and allow for more efficient collaboration among a team of developers.
+- [Naming and Style Conventions](../assets/Lesson01/Lesson01-Naming-Conventions.md)
 
 ## Debugging Basics
+
+**_TBD Video and Lesson Section on debugging basics_**
 
 Software debugging is the process of finding and fixing errors (bugs) in computer programs. It is a crucial (and large) part of software development. Proper debugging ensures programs function as intended and are reliable.
 
 The most basic method of debugging is to log data directly from your program. You will use these logs to see what the code you have written is actually doing.
 
-The AI Assignment Reviewer IS NOT a substitute for debugging your program. The reviewer will give you valuable information on things that might be wrong in your code, but is not the same as actually debugging your code.
-
-
-## Testing
-TBD - maybe add more about testing / edge cases here?
-
-
-
-
-In programming, a console is a text-based interface used for interacting with a computer program or operating system. It allows users to input commands and receive output, often in the form of text, directly from the program. This interface is also commonly used for debugging and troubleshooting code
+In programming, a console is a text-based interface used for interacting with a computer program or operating system. It allows users to input commands and receive output, often in the form of text, directly from the program. This interface is also commonly used for debugging and troubleshooting code.
 
 Console windows are also knows as terminal windows. You will also sometimes hear the term command-line interface (CLI) which means you are typing commands to interact with the program or system.
 
-We will talk a little more about console windows in future lessons, but for now, all you need to know is that when you run the command
+We will talk a little more about console windows in future lessons, but for now, all you need to know is that when you run the command.
 
 ```javascript
 console.log("string to log)
 ```
-
 The data located between the parenthesis is logged to the console window which is part of the embedded/interactive assignment on the javascript lesson pages.
+
+The AI Assignment Reviewer IS NOT a substitute for debugging your program. The reviewer will give you valuable information on things that might be wrong in your code, but is not the same as actually debugging your code.
 
 ## Software Repositories
 
@@ -79,6 +66,8 @@ There are many cloud based software repositories. In this class we will use GitH
 **_TBD - Where do we put this part of the assignment?_**
 
 ### Now we are going to create a repository of our own on GitHub
+
+**_TBD Video - Create a new repository on Github_**
 
 Create a new repository in your GitHub account by following these steps:
 
