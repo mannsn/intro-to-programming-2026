@@ -1,4 +1,6 @@
-```javascript
+
+``` javascript
+
 //----------------------------------
 // LESSON 1 BASICS AND FUNCTIONS
 //----------------------------------
