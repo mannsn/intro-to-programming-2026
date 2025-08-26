@@ -1,33 +1,25 @@
-
 ## **Algorithms**
-This week we are going to look at algorithms.  An algorithm sounds like it might be something hard and complex, but it really is just a set of steps that you are going to code in order to accomplish an end goal. An algorithm is just a set of step-by-step instructions to solve a specific problem or perform a task.
+
+This week we are going to look at algorithms. An algorithm sounds like it might be something hard and complex, but it really is just a set of steps that you are going to code in order to accomplish an end goal - a set of step-by-step instructions to solve a specific problem or perform a task.
 
 Here is a non-coding explanation of algorithms, which can be a helpful way to think about some of the problems we are trying to solve.
 https://www.learning.com/blog/7-examples-of-algorithms-in-everyday-life-for-students/
 
-
-TBD - add more about functions here ??
-
 ## **Pseudocode**
 
-As the problems you are trying to solve become more complex, it can be helpful to write the steps of your program down in plain language instead of jumping straight to code.  Even experienced developers do this as a way of thinking about the problem they are trying to solve without having to drill down into the specifics of how to code it.  
+As the problems you are trying to solve become more complex, it can be helpful to write the steps of your program down in plain language instead of jumping straight to code. Even experienced developers do this as a way of thinking about the problem they are trying to solve without having to drill down into the specifics of how to code it.
 
-Pseudocode will not compile or run, but can be made as a set of comments with code filled in later in the appropriate places.
+Pseudocode will not compile or run, but can be made as a set of comments with code filled in later in the appropriate places. It is also helpful that the pseudocode can simply become the comments for your code once it is written.
 
 Let's take the simple example of a tip calculator which will be one of your questions for assignment 4.
 
 ```jsx
 // We know it's a function and that it takes 2 parameters, so we'll just go ahead and code that part
-function tipCalculator ( billTotal, tipPercentage) {   
-
+function tipCalculator(billTotal, tipPercentage) {
   // Check the parameters and make sure they are valid
-
   // Multiply the total by the tip percentage which gives us the tip
-
   // Add the tip to the bill total to get the final amount paid
-
-  // Return the final amount paid 
-
+  // Return the final amount paid
 }
 ```
 
@@ -58,10 +50,6 @@ addNumbers(5, 3, handleResult);
 
 In this example, the **`addNumbers`** function takes two numbers **`a`** and **`b`**, adds them together, and then calls a provided **`callback`** function with the result. The **`handleResult`** function is the callback, and it prints the result to the console.
 
-This demonstrates how callbacks can be used to pass control from one function to another, allowing you to specify what should happen after a specific operation (in this case, addition) is complete.
-
-Watch this video on the mistake with functions every developer makes, because remember **making mistakes is a great way to learn!** [YouTube Video Link](https://www.youtube.com/watch?v=7UMuJMiNjSk&t=98s)
-
 Callbacks are a versatile and powerful concept in programming, and they can be used in various scenarios. Here are some common situations where callbacks are useful:
 
 1. **Asynchronous Operations:** Callbacks are often used with asynchronous operations, like making network requests, reading files, or interacting with databases. They allow you to specify what should happen when the operation is completed without blocking the rest of your program.
@@ -72,12 +60,5 @@ Callbacks are a versatile and powerful concept in programming, and they can be u
 
 Overall, callbacks are a fundamental building block in software development, enabling you to define what should happen when a particular event or operation occurs, making your code more flexible, modular, and responsive.
 
-We will be covering all these aspects of the uses of callbacks in later lessons, but it is important to understand how they work at a very basic level.
-
-
-## OPTIONAL: **Data Structures**
-This section is useful for students who plan to take Python or Node
-
-TBD
-
+Don't worry if each of these uses doesn't make complete sense yet. It's just helpful to become familiar with some of the terminology. We will be covering callbacks again in some of the later lessons.
 
