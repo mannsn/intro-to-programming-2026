@@ -1,20 +1,11 @@
-# Lesson 2
-
-**Key topics for Lesson 2**
-
-- Javascript Loops 
-- Javascript Arrays 
-- Scope
-- Version Control Systems / Git
-
-## **Loops**
+# **Loops**
 
 Computers don’t get tired, and they’re really, *really* fast! For that reason, they are well suited to solving problems that involve doing calculations multiple times. In some cases, a computer will be able to repeat a task *thousands* or even *millions* of times in just a few short seconds where it might take a human many hours. (Obviously, speed here depends on the complexity of the calculation and the speed of the computer itself). One way to make a computer do a repetitive task is using a **loop**.
 
 1. Read this [MDN article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code). It’s a longer one, but make sure you tackle the ‘Active Learning’ sections at the bottom of the page.
 2. Once again, same info, slightly different context from [JavaScript.info](http://javascript.info/while-for). (Skim the info if you think you know it all, but **don’t forget the tasks at the end of the page**. You learn best by *doing*.)
 
-## **Arrays**
+# **Arrays**
 
 Strings and numbers may be our building blocks, but as your scripts get more complex, you’re going to need a way to deal with large quantities of them. Luckily, JavaScript has a couple of data types that are used for just that. An Array is simply an ordered collection of items (Strings, numbers, or other things).
 
@@ -27,7 +18,7 @@ Strings and numbers may be our building blocks, but as your scripts get more com
 2. [This article](https://www.w3schools.com/js/js_array_methods.asp) covers some of the most useful built-in array methods. These fundamentals are something you’ll use every day, so don’t rush too much and miss out!
 3. [Web Dev Simplified video](https://www.youtube.com/watch?v=7W4pQQ20nJg) explains an overview of arrays in JavaScript in about 6 minutes.
 
-## **Knowledge Check**
+# **Knowledge Check**
 
 This section contains questions for you to check your understanding of the lessons from this week and last week on your own. If you’re having trouble answering a question, click it and review the material it links to.
 
@@ -41,14 +32,14 @@ This section contains questions for you to check your understanding of the lesso
 - [What is the break statement?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#exiting_loops_with_break)
 - [What is the continue statement?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code#skipping_iterations_with_continue)
 
-## Scope
+# Scope
 
 In JavaScript, scope defines the accessibility of variables, functions, and objects within different parts of your code. It determines where these elements are visible and can be referenced. 
 
 https://www.w3schools.com/js/js_scope.asp
 
 
-## Version Control System / Git
+# Version Control System / Git
 
 Last week, we learned about GitHub which is an online platform used to host software repositories.  You created your first repository.  This week, we are going to learn about Git which is the version control system used by GitHub to manage your software repository.  Although there are other version control systems, Git is the most widely used.
 
@@ -60,9 +51,9 @@ When you created your GitHub repository, you created a repository in a cloud env
 
 The following information will help you setup git on your local machine. Remember to  go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there also.
 
-- **[The Odin Project – Setting Up Git](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git)**
+- [The Odin Project – Setting Up Git](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git)
 
-***TBD - insert some of the slides that we have here***
+**TODO - Video - Clone Repo**
 
-***TBD - do we want a short video as well?***
-
+The following slides show the steps involved in using Git and Github.  Pay attention to where files are located in each step - either on your local machine or remote in Github.
+- [Git-Github Slides](../assets/Git-Github.pdf)

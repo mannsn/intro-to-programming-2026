@@ -1,18 +1,8 @@
-# Lesson 1
-
-**Key topics for Lesson 1**
-
-- Problem Solving
-- Javascript Basics: Variables, Strings, Types, Conditions and Function
-- Debugging Basics
-- Console / Terminals
-- Software Repositories / Github
-
-## Problem Solving
+# Problem Solving
 
 - [Problem Solving](../assets/Lesson01/Lesson01-Problem-Solving.md)
 
-## Javascript Basics
+# Javascript Basics
 
 **You can _either_ use the written Odin Project lessons _or_ the video lessons in Scrimba. You can do both if you have them time and want to, but using just one or the other will teach what is needed to complete the coding assignments.**
 
@@ -30,11 +20,11 @@ For the Odin Project, Go to each link in this list and read through the content 
 - [V2 Scrimba - JS Deep Dive - Types & Conditionals](https://v2.scrimba.com/javascript-deep-dive-c0a/~0g)
 - [V2 Scrimba - JS Deep Dive - Functions](https://v2.scrimba.com/javascript-deep-dive-c0a/~0q)
 
-## Javascript Naming and Style Conventions
+# Javascript Naming and Style Conventions
 
 - [Naming and Style Conventions](../assets/Lesson01/Lesson01-Naming-Conventions.md)
 
-## Debugging Basics
+# Debugging Basics
 
 **_TBD Video and Lesson Section on debugging basics_**
 
@@ -55,7 +45,7 @@ The data located between the parenthesis is logged to the console window which i
 
 The AI Assignment Reviewer IS NOT a substitute for debugging your program. The reviewer will give you valuable information on things that might be wrong in your code, but is not the same as actually debugging your code.
 
-## Software Repositories
+# Software Repositories
 
 A software repository, often called a "repo", is a centralized storage location for code and related files used in software development. Software repositories allos developers to track changes to code, revert to previous versions of code and merge different branches of development.
 
