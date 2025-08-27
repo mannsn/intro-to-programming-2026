@@ -1,11 +1,12 @@
-## **Algorithms**
+# Algorithms
 
 This week we are going to look at algorithms. An algorithm sounds like it might be something hard and complex, but it really is just a set of steps that you are going to code in order to accomplish an end goal - a set of step-by-step instructions to solve a specific problem or perform a task.
 
 Here is a non-coding explanation of algorithms, which can be a helpful way to think about some of the problems we are trying to solve.
+
 https://www.learning.com/blog/7-examples-of-algorithms-in-everyday-life-for-students/
 
-## **Pseudocode**
+# Pseudocode
 
 As the problems you are trying to solve become more complex, it can be helpful to write the steps of your program down in plain language instead of jumping straight to code. Even experienced developers do this as a way of thinking about the problem they are trying to solve without having to drill down into the specifics of how to code it.
 
@@ -23,12 +24,11 @@ function tipCalculator(billTotal, tipPercentage) {
 }
 ```
 
-## **Callbacks**
+# Callbacks
 
 Callbacks are functions that you provide to another function or system to be executed when a certain condition or event occurs. They are a way of saying, "Hey, when this thing happens, do this specific task.”
 
-Here is some additional information on callbacks:
-https://www.w3schools.com/js/js_callback.asp
+Here is some additional information on callbacks:  https://www.w3schools.com/js/js_callback.asp
 
 Imagine you have a button on a website, and you want something to happen when the button is clicked. You could create a callback function that specifies what should happen when the button is clicked. This callback function is then associated with the button.
 
@@ -62,3 +62,21 @@ Overall, callbacks are a fundamental building block in software development, ena
 
 Don't worry if each of these uses doesn't make complete sense yet. It's just helpful to become familiar with some of the terminology. We will be covering callbacks again in some of the later lessons.
 
+# Continuing with Git - What is a Pull Request?
+
+A pull request is a request to merge a set of changes from one branch into another. 
+You can also think of it as requesting that a branch pull your updated code into that branch.
+
+- **Source Branch**: The branch containing the new or modified code that the developer wants to contribute. 
+- **Target Branch**: The branch into which the changes will be merged, typically the main or development branch of the project. 
+
+After the PR (Pull Request) has been approved (generally by some type of review process), then the owner of the target branch can merge the code.  In the case of multiple people working in the same area of code, there may potentially be conflicts that have to be resolved during the merge process.
+
+**Github: About Pull Requests:**
+
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
+**TODO - Creating Github PR Video**
+
+The following slides show the steps involved in using Git and Github.  Pay attention to where files are located in each step - either on your local machine or remote in Github.
+- [Git-Github Slides](../assets/Git-Github.pdf)
