@@ -1,17 +1,8 @@
 
-**Note:** The Scrimba course does not cover as much detail as the Odin Project on these topics so only those video lessons as a review of the basics of HTML.
+
+**[How Does the Web Work?](../assets/Lesson05/Lesson05-How-Does-the-Web-Work.md)**
 
 ### The Odin Project Links:
-
-Knowledge Checks:  It's helpful to do them, but not required.
-Additional Resources:  Can be helpful, but not required.
-
-
-https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works
-
-
-
-- **[The Odin Project – How Does the Web Work?](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/how-does-the-web-work)**
 
 - **[The Odin Project – Introduction to HTML and CSS](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-html-and-css)**
 
@@ -25,20 +16,17 @@ https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/W
 
 - **[The Odin Project – Links and Images](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/links-and-images)**
 
-- **[The Odin Project - Forms](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-form-basics)**
-
-- **[The Odin Project - Semantic HTML](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-semantic-html)**
-
-- **[The Odin Project - Introduction to Accessibility](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-introduction-to-web-accessibility)**
-
 ### Scrimba Links:
-- **[Scrimba - HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l/~00)**
-- **[Let’s write some HTML!](https://scrimba.com/html-css-crash-course-c02l/~04)**
-- **[strong and emphasis](https://v2.scrimba.com/html-css-crash-course-c02l/~05)**
-- **[File naming and organization](https://v2.scrimba.com/html-css-crash-course-c02l/~06)**
-- **[Anchors and Attributes](https://v2.scrimba.com/html-css-crash-course-c02l/~07)**
-- **[Lists](https://v2.scrimba.com/html-css-crash-course-c02l/~0c)**
-- **[Images](https://v2.scrimba.com/html-css-crash-course-c02l/~0d)**
+
+- **[Scrimba - HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)**
+
+Watch the following sections:
+- **Let's write some HTML!**
+- **strong and emphasis**
+- **File naming and organizati**
+- **Anchors and Attributes!**
+- **Lists**
+- **Images**
 
 ### HTML
 
@@ -59,5 +47,11 @@ An HTML element is often made up of two **_tags_**: an _opening tag_ and a�
 
 An HTML **_element_** consists of two tags: an opening tag and a closing tag (such as `<h1>` and `</h1>`). The closing tag will always have a /, which signifies the end of an element. HTML text can be grouped into headings or paragraphs.
 
-### Debugging Code in a Browser
-https://code.visualstudio.com/docs/nodejs/browser-debugging
+# Visual Studio Code
+
+Visual Studio Code is an IDE (Integrated Development Environment).  IDEs are helpful programs that combine several tools (a text editor, the command line/terminal, file organization, and more) into one program.  If you aren't currently using an IDE of your own preference, you should watch the video below and install Visual Studio Code and suggested extensions in the video before you start this week's assignment.
+
+[Visual Studio Code Info Session with Shawn Clary](https://www.youtube.com/watch?v=R8lusLkuWJQ)
+
+[Browser debugging in VS Code](https://code.visualstudio.com/docs/nodejs/browser-debugging)
+
