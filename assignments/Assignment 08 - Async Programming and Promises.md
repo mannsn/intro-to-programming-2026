@@ -1,23 +1,23 @@
-### Get organized and write some code!
+## Get organized and write some code!
 - [ ] In your GitHub repository, if you have not yet merged your pull request from last week, merge your open lesson-10 pull request by going to the "Pull Requests" tab of your repository. Click on your open pull request, then click on the green 'Merge Pull Request" and confirm the merge. This will update your main branch with the work you did on your lesson-10 branch.
 - [ ] Open your code editor and, in the terminal, make sure you're on your main branch. If you're still on your lesson-10 branch, you can switch to your main branch by using the git command `git checkout main`.
 - [ ] Update your local main branch to include your lesson-10 work by pulling your changes from your GitHub repository main. Use the following git command in your terminal to do this: `git pull origin main`
 - [ ] Still in your terminal, create a new local branch to keep track of just the work you'll do for this assignment by running `git checkout -b lesson-11` in the terminal. Doing this also copies the lesson-10 work you merged to main and pulled to your local machine so now all your branches should be identical on your local machine.
 
-### Assignment: Task List / Deliverables
+## Assignment: Task List / Deliverables
 
-#### Create a JavaScript file
+### Create a JavaScript file
 - [ ] Create a folder called `js` at the same level as your index.html, readme.md, and your css folder.
 - [ ] Inside the js folder, create a JavaScript file called `index.js`
 - [ ] Open your `index.html` file
 - [ ] Before the closing `</body>` tag, insert a `<script>` element with a `src` attribute that specifies the relative path to your JavaScript file (i.e. `js/index.js`)
 - [ ] Save and open the index.html in your browser so you can check your changes to your html page as you build the js code below.  _If you're using VSCode or similar, you should be able to install/may already have an extension that allows you to have a "live" version of your index.html running in your browser that will automatically update when changes in your files are saved so you don't have to keep refreshing your file in your browser._
 
-#### Add a Footer Element
+### Add a Footer Element
 - [ ] In your index.js file, using DOM manipulation, add a 'footer' child element to your index.html.  Be careful on this step, as different DOM methods (append, appendChild, lastChild, etc.) have different placements.
 - [ ] Remember that you can store the elements in variables to reference the variables and call methods on them to more easily follow your code. (It's easier to read `body.innerHTML` than it is to read `document.getElementsByTagName("body").innerHTML`)
 
-#### Insert Copyright Text in Footer
+### Insert Copyright Text in Footer
 - [ ] Open your `index.js` file
 - [ ] Create a variable named `today` and assign it a new date object
   - hint: `new Date()` constructor
@@ -35,7 +35,7 @@
 - [ ] Save and refresh your browser
   - You should see the text "_Your Name_ 2024" at the bottom of the page
 
-#### Add to your Skills Section
+### Add to your Skills Section
 - [ ] Open your `index.html` file
 - [ ] Above the "Connect" section, add a new `<section>` element with an `id` attribute of value "skills"
 - [ ] Inside the new section, add a `<h2>` element that says "Skills"
@@ -43,7 +43,7 @@
 - [ ] Save and refresh your browser _(or just check your browser for changes if using live extension)_
   - You should see the new "Skills" heading
 
-#### Create List of Skills
+### Create List of Skills
 - [ ] Open your `index.js` file
 - [ ] List your technical skills by creating an Array of String values and store it in a variable named `skills`
   - Example: `["JavaScript", "HTML", "CSS", "Adobe Photoshop", "GitHub"]`
@@ -60,13 +60,13 @@
 - Save and refresh your browser _(or just check your browser for changes if using live extension)_
   - You should see your list of skills beneath the "Skills" heading
  
-#### Style your skills
+### Style your skills
  - [ ] Open your `index.css` file
  - [ ] Use flexbox or grid to organize and adjust the layout of your list of skills.  Remember to include any adjustments in your media query sections.
 
 **_By the end of this assignment, you should have a js folder with an index.js in it.  The code you wrote in your index.js should have written a footer with your name and the current year to the html document.  Also, an array list of skills in your index.js file should be written to the skills section you created in your html document and should be styled using flexbox or grid._**
 
-### Backup to the cloud
+## Back up to the cloud
 Once you've made the above changes to your html file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:
 
 - [ ] Check the status of the changes you just made (creating a js folder and the index.js file within, linking the index.js to your html file) by running git status in your terminal
@@ -75,15 +75,13 @@ Once you've made the above changes to your html file, follow the below instructi
 - [ ] Create a commit message for reference. You can use a different message if you wish. Run `git commit -m "js added, created footer and skills"`
 - [ ] Push these changes to your GitHub repository from your local computer by running `git push`
 
-### Submit Assignment
+## Submit Assignment
 Now let's make sure that lesson branch will be reviewed.
 
-- [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-11 has a recent push" notice with a green "Compare & pull request" button. Click that button
+- [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-8 has a recent push" notice with a green "Compare & pull request" button. Click that button
 - [ ] Feel free to put notes to yourself or notes for your reviewer in the description (be sure you're including any questions to your reviewer in your assignment submission form though!) and click the green "Create pull request" button.
-- [ ] Copy the address of your pull request page (should look like https://github.com/yourUsername/name-classname/pull/6) and paste it into your assignment submission form.
+- [ ] Copy the address of your pull request page (should look like https://github.com/yourUsername/name-classname/pull/#) and paste it into your assignment submission form.
 
-### What next?
-- If you're on track with class, wait to get feedback and/or the email notice that your assignment review is complete before confirming and merging your pull request to the main branch.
-- If you're behind or are working ahead:
-  - if you're confident your work is accurate, merge your pull request and continue working through class.
-  - if you're not sure about your work this week, schedule a 1:1 session with a mentor and review your work together before merging.
+## What next?
+- If you are ready to start on the next lesson and have not gotten your review comments back yet, you can go ahead and merge your pull request and continue working.
+- if you are unsure about your work this week, schedule a 1:1 session with a mentor and review your work together before merging.
