@@ -78,5 +78,22 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 
 **TODO - Creating Github PR Video**
 
-The following slides show the steps involved in using Git and Github.  Pay attention to where files are located in each step - either on your local machine or remote in Github.
-- [Git-Github Slides](../assets/Git-Github.pdf)
+## Assignment - Create and Submit a PR
+Now, let's submit a PR.
+- [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-3 has a recent push" notice with a green "Compare & pull request" button.  Click that button
+- [ ] Feel free to put notes to yourself or notes for your reviewer in the description (be sure you're including any questions to your reviewer in your assignment submission form though!) and click the green "Create pull request" button.
+- [ ] Copy the address of your pull request page (should look  something like `https://github.com/yourUsername/name-classname/pull/1`) and paste it into your assignment submission form.  Each of the following weeks, you will submit a PR link for review. 
+
+### MERGE back into the remote (GitHub) main repo
+- This week, we are going to go ahead and merge out updates back into the main branch right now so that you can see how that works.  
+- For future weeks, if you are ready to start on the next lesson and have not gotten your review comments back yet, you can go ahead and merge your pull request and continue working.  If you are unsure about your work, schedule a 1:1 session with a mentor and review your work together before merging.
+
+### PULL back into your local main repo
+- [ ] In your terminal, make sure you're on your main branch. You can use `git status` to see. If you're still on your lesson-3 branch, you can switch to your main branch by using the git command `git checkout main`.
+- [ ] Update your local main branch to include your lesson-3 work by pulling your changes from your GitHub repository main. Use the following git command in your terminal to do this: `git pull origin main`.
+
+## Git / GitHub Workflow
+The following image shows the steps involved in using Git and Github.  Pay attention to where files are located in each step - either on your local machine or remote in Github.  
+We will work on the entire workflow in pieces over Lessons 2, 3 and 4.
+
+![image](../assets/GitFlow.jpg)
