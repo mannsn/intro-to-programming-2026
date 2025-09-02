@@ -55,5 +55,15 @@ The following information will help you setup git on your local machine. Remembe
 
 **TODO - Video - Clone Repo**
 
-The following slides show the steps involved in using Git and Github.  Pay attention to where files are located in each step - either on your local machine or remote in Github.
-- [Git-Github Slides](../assets/Git-Github.pdf)
+## Assignment - CLONE your GitHub Repository to your local machine
+Clone the repository you just created in GitHub to your local computer by following these steps:
+   - [ ] On the main Code page of your GitHub repository, click the green "Code" button
+   - [ ] Your lesson walked you through setting up an SSH key with GitHub.  You should select "SSH" as the Local Clone type (not HTTPS or GitHub CLI).
+   - [ ] Click the copy button (two overlapping squares icon) to copy your repository address.  It should look something like `git@github.com:yourUsernameHere/firstname-lastname-class.git`
+   - [ ] Go to your IDE terminal or your computer terminal.  Make sure you're in the proper directory for where you want to create and store files for your work (ex. your Desktop or a CodeTheDream folder).  Then run `git clone <repository>` where "\<repository\>" is replaced with the last portion you copied in the last step.
+
+## Git / GitHub Workflow
+The following image shows the steps involved in using Git and Github.  Pay attention to where files are located in each step - either on your local machine or remote in Github.  
+We will work on the entire workflow in pieces over Lessons 2, 3 and 4.
+
+![image](../assets/GitFlow.jpg)
