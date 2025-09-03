@@ -48,3 +48,4 @@ Create a new repository in your GitHub account by following these steps:
 - [ ] Fill in the fields to give your repository a name (use your name-**_classname_** as the name example: `maria-santiago-jupiter`) and description (example: portfolio project for Intro to Programming course with Code the Dream)
 - [ ] Be sure PUBLIC is selected and check the "Initialize this repository with: Add a README file" check box.
 - [ ] Click "Create Repository"
+
