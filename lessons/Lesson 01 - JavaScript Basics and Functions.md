@@ -1,6 +1,6 @@
 # Problem Solving
 
-- [Problem Solving](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2026/refs/heads/main/assets/Lesson01/Lesson01-Problem-Solving.md)
+- [Problem Solving](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2026/refs/heads/main/assets/Lesson01/Lesson01-Problem-Solving.md?raw=true)
 
 # Javascript Basics
 
@@ -22,30 +22,13 @@ For the Odin Project, Go to each link in this list and read through the content 
 
 # Javascript Naming and Style Conventions
 
-- [Naming and Style Conventions](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2026/refs/heads/main/assets/Lesson01/Lesson01-Naming-Conventions.md)
+- [Naming and Style Conventions](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2026/refs/heads/main/assets/Lesson01/Lesson01-Naming-Conventions.md?raw=true)
 
 # Debugging Basics
 
-- [Debugging Basics](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2026/refs/heads/main/assets/Lesson01/Lesson01-Problem-Solving.md)
+- [Debugging Basics](https://raw.githubusercontent.com/Code-the-Dream-School/intro-to-programming-2026/refs/heads/main/assets/Lesson01/Lesson01-Debugging-Basics.md?raw=true)
 
 **_TBD Video and Lesson Section on debugging basics_**
-
-Software debugging is the process of finding and fixing errors (bugs) in computer programs. It is a crucial (and large) part of software development. Proper debugging ensures programs function as intended and are reliable.
-
-The most basic method of debugging is to log data directly from your program. You will use these logs to see what the code you have written is actually doing.
-
-In programming, a console is a text-based interface used for interacting with a computer program or operating system. It allows users to input commands and receive output, often in the form of text, directly from the program. This interface is also commonly used for debugging and troubleshooting code.
-
-Console windows are also knows as terminal windows. You will also sometimes hear the term command-line interface (CLI) which means you are typing commands to interact with the program or system.
-
-We will talk a little more about console windows in future lessons, but for now, all you need to know is that when you run the command.
-
-```javascript
-console.log("string to log)
-```
-The data located between the parenthesis is logged to the console window which is part of the embedded/interactive assignment on the javascript lesson pages.
-
-The AI Assignment Reviewer IS NOT a substitute for debugging your program. The reviewer will give you valuable information on things that might be wrong in your code, but is not the same as actually debugging your code.
 
 # Software Repositories
 
