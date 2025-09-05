@@ -1,6 +1,6 @@
 # Problem Solving
 
-- [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-2025/assets/Lesson01/Lesson01-Problem-Solving)
+- [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/Lesson01/Lesson01-Problem-Solving.html)
 
 <details>
 <summary>Click this link to expand/collapse the content about Problem Solving</summary>
