@@ -1,9 +1,11 @@
 # Problem Solving
 
+- [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-2025/assets/Lesson01/Lesson01-Problem-Solving)
+
 <details>
-  <summary>Click this link to expand/collapse the content about Problem Solving</summary>
+<summary>Click this link to expand/collapse the content about Problem Solving</summary>
   
-  ### The following is an excerpt from The Odin Project's Problem Solving page.  We've extracted the parts from that content that you need.  Please read the following content...
+### The following is an excerpt from The Odin Project's Problem Solving page.  We've extracted the parts from that content that you need.  Please read the following content...
 
 ### Introduction
 Before we start digging into some pretty nifty JavaScript, we need to begin talking about *problem solving*: the most important skill a developer needs.
@@ -70,9 +72,9 @@ It's important to remember that you might not know all the steps that you might 
 Many beginners try to solve the big problem in one go. **Don’t do this**. <span id="breaking-problem">If the problem is sufficiently complex, you’ll get yourself tied in knots and make life a lot harder for yourself. Decomposing problems into smaller and easier to solve subproblems is a much better approach. Decomposition is the main way to deal with complexity, making problems easier and more approachable to solve and understand.</span>
 
 In short, break the big problem down and solve each of the smaller problems until you've solved the big problem.
-
-
-</details>
+ 
+</details> 
+<b>
 
 # Javascript Basics
 
