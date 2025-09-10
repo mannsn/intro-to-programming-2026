@@ -41,17 +41,23 @@ https://www.w3schools.com/js/js_scope.asp
 
 # Version Control System / Git
 
-Last week, we learned about GitHub which is an online platform used to host software repositories.  You created your first repository.  This week, we are going to learn about Git which is the version control system used by GitHub to manage your software repository.  Although there are other version control systems, Git is the most widely used.
+Last week, we learned about GitHub which is an online platform used to host software repositories. You created your first repository. This week, we are going to learn about Git which is the version control system used by GitHub to manage your software repository. Although there are other version control systems, Git is the most widely used.
 
 A version control system is a software tool that tracks and manages changes to files and directories over time. It allows multiple developers to collaborate on a project, maintain a history of all changes, and easily revert to previous versions if needed. It is essential for a development team that is working in the same code base.
 
-Git can be confusing when you first start learning about it.  There are quite a few steps which might seem unnecessary, but will definitely make sense when you are working in a team environment.
+Git can be confusing when you first start learning about it. There are quite a few steps which might seem unnecessary, but will definitely make sense when you are working in a team environment.
 
-When you created your GitHub repository, you created a repository in a cloud environment.  while you can edit files remotely, you will want to have your code in a local development environment where you can easily run and debug it.  This week, we are going to copy our software repository to our local computer.  This is called cloning.  There are gui interfaces that will let you submit git commands, but we are going to learn how to submit the commands through a terminal interface.
+When you created your GitHub repository, you created a repository in a cloud environment. While you can edit files remotely, you will want to have your code in a local development environment where you can easily run and debug it. This week, we are going to copy our software repository to our local computer.  This is called cloning.  There are gui interfaces that will let you submit git commands, but we are going to learn how to submit the commands through a terminal interface.
 
-The following information will help you setup git on your local machine. Remember to  go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there also.
+## Installing and Setting Up Git
+The following information will help you setup git on your local machine.
 
 - [The Odin Project – Setting Up Git](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/setting-up-git)
+
+The Odin link does not provide a link to the Windows installer which can be found here:
+- [Windows Installer](https://git-scm.com/downloads/win)
+
+After installing, follow the rest of the instructions on the Odin page for setting up Git.
 
 **TODO - Video - Clone Repo**
 
@@ -67,5 +73,3 @@ The following image shows the steps involved in using Git and Github.  Pay atten
 We will work on the entire workflow in pieces over Lessons 2, 3 and 4.
 
 ![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/GitFlow.jpg?raw=true)
-
-<img src="https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/GitFlow.jpg?raw=true" alt="drawing" width="1000"/>
