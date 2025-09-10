@@ -67,3 +67,5 @@ The following image shows the steps involved in using Git and Github.  Pay atten
 We will work on the entire workflow in pieces over Lessons 2, 3 and 4.
 
 ![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/GitFlow.jpg?raw=true)
+
+<img src="https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/GitFlow.jpg?raw=true" alt="drawing" width="1000"/>
