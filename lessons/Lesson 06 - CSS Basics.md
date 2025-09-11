@@ -1,3 +1,9 @@
+
+# Cascading Style Sheets (CSS)
+
+*Cascading Style Sheets*, or CSS, is a programming language that was created to supplement HTML. As a *style sheet language*, CSS is the code that explains how a markup language, like HTML, should be presented. When used alongside HTML on a web page, CSS can add a variety of formatting, design, and style details.
+
+# Lessons
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
@@ -15,25 +21,15 @@ Remember to please go to each link in this list and read through the content on 
 
 ### Scrimba Links:
 
-- **[Scrimba - HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)**
-
-Watch the following sections:
-- **Intro to CSS**
-- **CSS Basics**
-- **Internal CSS**
-- **External CSS**
-- **Intro to the Box Model**
-- **Classes and IDs**
-- **Margin and Padding**
-- **Borders**
-- **A Basic Layout**
-- **A Basic Layout - Centering an element on the page**
-- **Creating columns with flexbox**
-- **Create the layout from scratch - the HTML**
-- **Creating the layout - the CSS**
-- 
-
 - **[Scrimba - HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l/~00)**
+- **[Intro to CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~08)**
+- **[CSS Basics](https://v2.scrimba.com/html-css-crash-course-c02l/~09)**
+- **[Internal CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~0f)**
+- **[External CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~0g)**
+- **[Classes and IDs](https://v2.scrimba.com/html-css-crash-course-c02l/~0h)**
+- **[Intro to the Box Model](https://v2.scrimba.com/html-css-crash-course-c02l/~0k)**
+- **[Margin and Padding](https://v2.scrimba.com/html-css-crash-course-c02l/~0l)**
+- **[Borders](https://v2.scrimba.com/html-css-crash-course-c02l/~0m)**
 - **[A basic layout](https://v2.scrimba.com/html-css-crash-course-c02l/~0o)**
 - **[A basic layout - centering an element on the page](https://v2.scrimba.com/html-css-crash-course-c02l/~0p)**
 - **[Creating columns with flexbox](https://v2.scrimba.com/html-css-crash-course-c02l/~0q)**
@@ -41,6 +37,4 @@ Watch the following sections:
 - **[Creating the layout - The CSS](https://v2.scrimba.com/html-css-crash-course-c02l/~0s)**
 - **[Scrimba - Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k/~00)**
 
-### CSS
 
-*Cascading Style Sheets*, or CSS, is a programming language that was created to supplement HTML. As a *style sheet language*, CSS is the code that explains how a markup language, like HTML, should be presented. When used alongside HTML on a web page, CSS can add a variety of formatting, design, and style details.
