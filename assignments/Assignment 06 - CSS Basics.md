@@ -27,8 +27,9 @@ For this assignment, there are some general requirements but the design is up to
    - [ ] Transform the style of the "Connect" links
      - [ ] STRETCH GOAL (optional): make or use social media icons to replace your link text with images
 
+**_By the end of this section, you should have basic styling and have changed a minimum of one background color, one font, one text color, the padding and margin of one element, the alignment of one element, the look of the heading elements, the look of your name, the look of list items, the look of links._**
 
-Last week you worked with styling.  This week lets work a little more with formatting and layout (the placement of your elements and their content).
+### Now lets do a little formatting
    - [ ] In your index.html file, add a navigational header to your webpage using the `<nav>` element.
    - [ ] Add two sections to your index.html file:
      - [ ] The first section will be "Skills".  Use an h2 tag as you did with your About, Experience, and Connect sections, and be sure to include the id property in the element.  You can leave the section empty for now.  In later weeks we'll use JavaScript to insert a list of your skills.
@@ -38,13 +39,10 @@ Last week you worked with styling.  This week lets work a little more with forma
    - [ ] In your index.css file, change the layout of your "Experience" section using rows and columns so items are displayed in a better layout rather than a list
          Hint: use Flexbox - we suggest have job titles to the left, dates worked that job to the right and brief description of the job below the title.
    - [ ] Also in your index.css file, update the "Connect" section to use Flexbox to improve the layout of your social media icons or links
+
+**_By the end of this section, you should have added navigation to your site that uses internal links to "jump" the user to that section of your page.  You should also have reformatted your Experience and Connect sections using Flexbox css code.  Lastly, your site should have a header for your Skills and Projects sections, and an empty `<ul>` element in the Projects section, but no content in either section yet._**
+
 **NOTE:** This is the basic rubric, but we encourage you to think beyond this list and come up with your own ideas to make your webpage unique!
-
-**_By the end of this lesson, you should have added navigation to your site that uses internal links to "jump" the user to that section of your page.  You should also have reformatted your Experience and Connect sections using Flexbox css code.  Lastly, your site should have a header for your Skills and Projects sections, and an empty `<ul>` element in the Projects section, but no content in either section yet._**
-
-**NOTE:** This is the basic rubric, but we encourage you to think beyond this list and come up with your own ideas to make your webpage unique!
-
-**_By the end of this assignment, you should have basic styling and have changed a minimum of one background color, one font, one text color, the padding and margin of one element, the alignment of one element, the look of the heading elements, the look of your name, the look of list items, the look of links._**
 
 ## Back up to the cloud
 Once you've made the above changes to your repository folder structure and added your css file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:

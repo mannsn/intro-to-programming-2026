@@ -6,6 +6,38 @@ Here is a non-coding explanation of algorithms, which can be a helpful way to th
 
 https://www.learning.com/blog/7-examples-of-algorithms-in-everyday-life-for-students/
 
+### A real world example of an algorithm - Making a peanut butter and jelly sandwich
+- Check if you have bread, peanut butter, and jelly
+- If any ingredient is missing:
+  - Make a note of what to buy
+  - Stop (can't make sandwich)
+- Take out the following things:
+  - Two slices of bread
+  - Jar of peanut butter
+  - Jar of jelly
+  - knife
+  - plate
+- Open the peanut butter jar
+- Spread peanut butter on first slice
+- Open the jelly jar  
+- Spread jelly on second slice
+- Put the slices together
+- Cut sandwich in half (optional)
+- Serve on plate
+
+## 🌍 Real World Algorithms You Use Daily:
+- Following a recipe (step-by-step instructions)
+- Using a GPS (algorithm finds best route)
+- ATM withdrawal (checks balance, dispenses cash, updates account)
+- Doing laundry (sort, wash, dry, fold - in that order!)
+
+Also, here are some examples for students to practice their pseudo-code thinking:
+## 💡 Practice Tip:
+Before coding, try writing out the steps for these everyday tasks:
+- Making a cup of coffee
+- Brushing your teeth
+- Checking if you need an umbrella (hint: check weather!)
+
 # Pseudocode
 
 As the problems you are trying to solve become more complex, it can be helpful to write the steps of your program down in plain language instead of jumping straight to code. Even experienced developers do this as a way of thinking about the problem they are trying to solve without having to drill down into the specifics of how to code it.
@@ -28,7 +60,8 @@ function tipCalculator(billTotal, tipPercentage) {
 
 Callbacks are functions that you provide to another function or system to be executed when a certain condition or event occurs. They are a way of saying, "Hey, when this thing happens, do this specific task.”
 
-Here is some additional information on callbacks:  https://www.w3schools.com/js/js_callback.asp
+Here is some additional information on callbacks:  
+https://www.w3schools.com/js/js_callback.asp
 
 Imagine you have a button on a website, and you want something to happen when the button is clicked. You could create a callback function that specifies what should happen when the button is clicked. This callback function is then associated with the button.
 
@@ -62,6 +95,34 @@ Overall, callbacks are a fundamental building block in software development, ena
 
 Don't worry if each of these uses doesn't make complete sense yet. It's just helpful to become familiar with some of the terminology. We will be covering callbacks again in some of the later lessons.
 
+## Why callbacks are useful:
+
+```jsx
+// WITHOUT callbacks - we'd need separate functions for everything:
+function printDouble(num) {
+  console.log(num * 2);
+}
+function printTriple(num) {
+  console.log(num * 3);
+}
+function printSquare(num) {
+  console.log(num * num);
+}
+
+// WITH callbacks - one flexible function:
+function processNumber(num, action) {
+  action(num);  // Let the user decide what to do!
+}
+
+// Now we can do anything:
+processNumber(5, (n) => console.log(n * 2));    // doubles it
+processNumber(5, (n) => console.log(n * 3));    // triples it
+processNumber(5, (n) => console.log(n * n));    // squares it
+processNumber(5, (n) => console.log("The number is " + n));  // or anything else!
+
+// Callbacks let us write flexible, reusable code!
+```
+
 # Continuing with Git - What is a Pull Request?
 
 A pull request is a request to merge a set of changes from one branch into another. 
@@ -85,7 +146,7 @@ Now, let's submit a PR.
 - [ ] Copy the address of your pull request page (should look  something like `https://github.com/yourUsername/name-classname/pull/1`) and paste it into your assignment submission form.  Each of the following weeks, you will submit a PR link for review. 
 
 ### MERGE back into the remote (GitHub) main repo
-- This week, we are going to go ahead and merge out updates back into the main branch right now so that you can see how that works.  
+- This week, we are going to go ahead and merge our updates back into the main branch right now so that you can see how that works.  
 - For future weeks, if you are ready to start on the next lesson and have not gotten your review comments back yet, you can go ahead and merge your pull request and continue working.  If you are unsure about your work, schedule a 1:1 session with a mentor and review your work together before merging.
 
 ### PULL back into your local main repo
