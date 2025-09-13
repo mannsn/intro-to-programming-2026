@@ -17,21 +17,24 @@
 
 // Please be sure to check the output of your called functions and console logs in the Console tab to the bottom right of this screen. If your Console is not showing, click the Inspect Button in the top right (see the Welcome to week 3 information to the right if you need help finding that)  Check to make sure that the output you get in your Console is the expected output.
 
-// ---------- QUESTION 1 ----------
-// Objects are a way to store property:value pairs of data in a variable.  First, create an object called 'myPet'.  Add three properties called 'name', 'species', and 'color' to the 'myPet' object below and assign each of them values.  Use your console.log's to print the values of each property to the console.
+// ---------- QUESTION 1 Defining and Displaying the Object, Displaying properties ----------
+// Objects are a way to store property:value pairs of data in a variable.  First, create an object called 'myPet'.  Add three properties called 'name', 'species', and 'color' to the 'myPet' object below and assign each of the values. Use your console.log to print the object.  Use your console.log's to print the values of each property to the console.
 
 // EXAMPLE LOG:
+//    console.log("Q1 object: ", myPet);
 //    console.log("Q1 name: ", myPet.name);
 //    console.log("Q1 species: ", myPet.species);
 //    console.log("Q1 color: ", myPet.color);
+
 // EXAMPLE OUTPUT:
+//    Q1 object:  {"name":"Teddy","species":"ferret","color":"brown"} 
 //    Q1 name: Teddy
 //    Q1 species: ferret
 //    Q1 color: brown
-
+//   
 // PUT YOUR CODE HERE
 
-// ---------- QUESTION 2 ----------
+// ---------- QUESTION 2 Displaying properties with a template---------
 // Now let's see how we can use the property:value pairs in template literals.  Create a variable called 'aboutPet' and assign it a template literal that uses the 'myPet' object to make a sentence sharing all the pet details.  The sentence should look something like this: "Teddy is a brown ferret."
 
 // EXAMPLE LOG:
@@ -41,8 +44,50 @@
 
 // PUT YOUR CODE HERE
 
+// ---------- QUESTION 2 Modifying properties ---------
+// Now let's see how we can modify the properties. Modify the 'name' property of the 'myPet' object. This name should be different than the value used in Question 1 (e.g. Henry ). Use your console.log's to print the myPet console. Verify the 'name' property is different than the value in Question 1.
+
+// EXAMPLE LOG:
+//    console.log("Q3 updated object", myPet);
+// EXAMPLE OUTPUT:
+//    Q3 updated object:  {"name":"Teddy","species":"ferret","color":"brown"} 
+
+
+// PUT YOUR CODE HERE
+
+// ---------- QUESTION 3 Looping thru properties ---------
+// Now let's see how we can loop thru the properties - this is a common task in JavaScript. Use a for...in loop, a special type of loop in JavasScript designed specifically for iterating over the properties of an object.  See https://www.w3schools.com/js/js_loop_forin.asp for reference.
+//  Write a for...in loop that iterates through each property in the myPet object and prints the property name and its value to the console in the following format:
+//Q4: propertyName: propertyValue
+//Use console.log() inside the loop to display each key-value pair.
+
+// EXAMPLE LOG in the loop - replace <..>  :
+//    console.log("Q4: "+ <Supply key here> + ":",  <Supply value here> );
+// EXAMPLE OUTPUT:
+//    Q4: name: Henry
+//    Q4: species: ferret
+//    Q4: color: brown
+
+// PUT YOUR CODE HERE
+
+// ---------- QUESTION 4 ----------
+//Let’s explore how to work with object data inside a function. Your task is to define a method called describe on the myPet object. This method should take no parameters and return a sentence using a template literal that describes your pet using its properties.
+
+//Add a method named describe to the myPet object.
+//Inside the method, use a template literal to construct a sentence using the name, color, and species properties.
+//Use console.log() to display the result in the format shown below.
+
+// EXAMPLE LOG:
+//    console.log("Q4: ", myPet.describe());
+// EXAMPLE OUTPUT:
+//Q4: Teddy is a brown ferret. 
+
+// PUT YOUR CODE HERE
+
+
 // ---------- QUESTION 3 ----------
 // Let's add a method to our object.  Create a method called 'age' that takes no parameters, and uses no outside variables (hint: use 'this').  The method should return the age of the pet in years.
+
 
 // EXAMPLE LOG:
 //    console.log("Q3: ", myPet.age());
