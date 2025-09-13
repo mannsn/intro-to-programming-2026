@@ -72,7 +72,6 @@
 
 // ---------- QUESTION 4 ----------
 //Let’s explore how to work with object data inside a function. Your task is to define a method called describe on the myPet object. This method should take no parameters and return a sentence using a template literal that describes your pet using its properties.
-
 //Add a method named describe to the myPet object.
 //Inside the method, use a template literal to construct a sentence using the name, color, and species properties.
 //Use console.log() to display the result in the format shown below.
@@ -81,6 +80,8 @@
 //    console.log("Q4: ", myPet.describe());
 // EXAMPLE OUTPUT:
 //Q4: Teddy is a brown ferret. 
+
+//Stretch goal: Use "this" keyword.  Instead of referencing the object name directly (e.g., myPet.name), update your method to use the this keyword to access the object's properties. This makes your method more flexible and reusable.
 
 // PUT YOUR CODE HERE
 
