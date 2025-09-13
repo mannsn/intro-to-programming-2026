@@ -9,10 +9,11 @@ Read these 2 explanations of objects and how they work.
 
 
 Scrimba Videos for those who find them helpful:
-- [JS Deep Dive - Module Intro: Arrays](https://scrimba.com/javascript-deep-dive-c0a/~016)
+- [JS Deep Dive - Use Objects for Managing Key-Value-Pairs](https://scrimba.com/javascript-deep-dive-c0a/~016)
 - [JS Deep Dive - Challenge: Your First Object](https://scrimba.com/javascript-deep-dive-c0a/~017)
 - [JS Deep Dive - Understand Primitive vs Object Types](https://scrimba.com/javascript-deep-dive-c0a/~018)
 - [JS Deep Dive - Get and Modify Object Data](https://scrimba.com/javascript-deep-dive-c0a/~019)
+
 
 
 # Continuing with Git - Commit and Push Updates
