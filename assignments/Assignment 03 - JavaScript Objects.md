@@ -129,6 +129,8 @@
 //Q7: Dog { name: 'Kroger', breed: 'greyhound', age: 8 }
 //Q7: Dog { name: 'Destiny', breed: 'shepherd', age: 14 }
 
+// PUT YOUR CODE HERE
+
 //---------- QUESTION 8 --- Write a function that compares two objects-----
 //Write a function that compares two Dog instances objects and checks if they have the same keys and values. Write a function called areObjectsEqual(obj1, obj2) that returns true if both objects have the same keys and values, and false otherwise. 
 //Reuse:
@@ -148,7 +150,37 @@
 
 // PUT YOUR CODE HERE
 
+//---------- QUESTION 9 --- Date object for current date-----
+//Learn how to use the built-in Date object in JavaScript to retrieve and display the current date. See https://www.w3schools.com/js/js_dates.asp as a reference. Create a variable called currentDate. Assign it the value of a new Date() object.
 
+//EXAMPLE CALL:
+//console.log("Q9: Current Date:", currentDate);
+
+// EXAMPLE OUTPUT: Note Time will differ, below is an example only
+//Q9: Current Date: 2025-09-13T23:47:23.858Z 
+
+// PUT YOUR CODE HERE
+
+
+//---------- QUESTION 10 --- Date object for current date year, month, date-----
+//Use JavaScript's Date object to retrieve specific parts of the current date. Using the currentDate from Question 9, write three separate lines of code to extract:
+
+//The year using .getFullYear()
+//The month using .getMonth() (remember: months are zero-indexed!)
+//The day using .getDate()
+//Use console.log() to display each value with a descriptive label.
+
+//EXAMPLE CALL:
+//console.log("Q10 Year:", year);
+//console.log("Q10 Month:", month);
+//console.log("Q10 Day:", day);
+
+// EXAMPLE OUTPUT: Note Time will differ, below is an example only
+//Q10 Year: 2025
+//Q10 Month: 9
+//Q10 Day: 13
+
+// PUT YOUR CODE HERE
 
 
 
