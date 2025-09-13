@@ -90,9 +90,6 @@
 // EXAMPLE OUTPUT:
 //Q5 Color property deleted: true
 
-delete myPet.color;
-console.log("Q5", "Color property deleted:", !myPet.hasOwnProperty('color'));
-
 
 //---------- QUESTION 6 ----array of objects, for each------
 //Create a variable named pets and assign it an array containing three pet objects. Each object should include three properties: name, species, and color with appropriate values. Then, define a function called printPets that uses the forEach method to loop through the array and log each pet’s details to the console. Note: console.log is called within the function
@@ -129,8 +126,27 @@ console.log("Q5", "Color property deleted:", !myPet.hasOwnProperty('color'));
 //console.log("Q7", dog2);
 
 // EXAMPLE OUTPUT:
-//Q7: Dog { name: 'Kroger', bred: 'greyhound', age: 8 }
-//Q7: Dog { name: 'Destiny', bred: 'shepherd', age: 14 }
+//Q7: Dog { name: 'Kroger', breed: 'greyhound', age: 8 }
+//Q7: Dog { name: 'Destiny', breed: 'shepherd', age: 14 }
+
+//---------- QUESTION 8 --- Write a function that compares two objects-----
+//Write a function that compares two Dog instances objects and checks if they have the same keys and values. Write a function called areObjectsEqual(obj1, obj2) that returns true if both objects have the same keys and values, and false otherwise. 
+//Reuse:
+// - dog1 from question 7
+// - dog2 from question 7
+// Then, create:
+// - dog3: an object with the same keys and values as dog1.
+// - dog4: an object based on dog1 but with one additional key.
+
+// Use console.log() to test your function with various object comparisons.
+//EXAMPLE CALL:
+//console.log("Q8: Are objects equal - different values:", areObjectsEqual(dog1, dog2)); 
+//console.log("Q8: Are objects equal? - same key and values:", areObjectsEqual(dog1, dog3)); 
+//console.log("Q8: Are objects equal? - different keys:", areObjectsEqual(dog1, dog4)); 
+
+// EXAMPLE OUTPUT:
+
+// PUT YOUR CODE HERE
 
 
 
