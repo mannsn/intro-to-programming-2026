@@ -147,6 +147,9 @@
 //console.log("Q8: Are objects equal? - different keys:", areObjectsEqual(dog1, dog4)); 
 
 // EXAMPLE OUTPUT:
+//Q8: Are objects equal - different values: false
+//Q8: Are objects equal? - same key and values: true
+//Q8: Are objects equal? - different keys: false
 
 // PUT YOUR CODE HERE
 
