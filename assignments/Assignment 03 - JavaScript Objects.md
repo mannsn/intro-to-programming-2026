@@ -1,10 +1,4 @@
-
 ``` javascript
-
-//--------------- IMPORTANT!!! ---------------
-
-// IF YOU HAVE NOT READ THE README.md FILE YET, double click on that file in the "Files" panel to the left now and read it before you begin your assignment!
-
 //---------- OVERVIEW AND INSTRUCTIONS ----------
 
 //# JavaScript Objects
@@ -19,8 +13,6 @@
 // In this assignment you will write your own code. Your instructions are listed as "comments", meaning the instructions are grayed out and start with '//' at the beginning of the line of code. Put your answers immediately below the instructions for each question. As mentioned in the README.md file, you'll need to use console logs for all the questions to check your code output. Using a function in a console.log is very similar to how you were using them with variables last week. To invoke/call the function use the syntax:
 
 //  console.log("Q#: ", functionName(anyInput))
-
-// As always, click the green Run button at the top of the screen to see the output of your called functions in the Console tab to the right of this screen. Check to make sure that the output you get in your Console is the expected output.
 
 // ---------- QUESTION 1 ----------
 // Objects are a way to store property:value pairs of data in a variable.  First, create an object called 'myPet'.  Add three properties called 'name', 'species', and 'color' to the 'myPet' object below and assign each of them values.  Use your console.log to print the object.  Use your console.log's to print the values of each property to the console.
@@ -66,9 +58,9 @@
 
 
 // ---------- QUESTION 4 ----------
-//Let’s explore how to work with object data inside a function. Your task is to define a method called describe on the myPet object. This method should take no parameters and return a sentence using a template literal that describes your pet using its properties.
+//Let’s explore how to work with object data inside a function. Your task is to define a method called 'describe' in the myPet object. This method should take no parameters and return a sentence using a template literal that describes your pet using its properties.
 
-//Add a method named describe to the myPet object.
+//Add a method named 'describe' to the myPet object.
 //Inside the method, use a template literal to construct a sentence using the name, color, and species properties.
 //Use console.log() to display the result in the format shown below.
 
