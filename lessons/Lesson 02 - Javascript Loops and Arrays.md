@@ -61,7 +61,7 @@ The Odin link does not provide a link to the Windows installer which can be foun
 
 After installing, follow the rest of the instructions on the Odin page for setting up Git.
 
-- [Video - Clone Repo](https://drive.google.com/file/d/14DUNyWg0l5J03I8k2qJV7l5l5AYbkwqR/view?usp=drive_link)
+**TODO - Add link to video for clone**
 
 ## Assignment - CLONE your GitHub Repository to your local machine
 Clone the repository you just created in GitHub to your local computer by following these steps:
