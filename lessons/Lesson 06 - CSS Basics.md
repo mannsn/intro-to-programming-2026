@@ -1,7 +1,7 @@
 
 # Cascading Style Sheets (CSS)
 
-*Cascading Style Sheets*, or CSS, is a programming language that was created to supplement HTML. As a *style sheet language*, CSS is the code that explains how a markup language, like HTML, should be presented. When used alongside HTML on a web page, CSS can add a variety of formatting, design, and style details.
+*Cascading Style Sheets*, or CSS, is a style sheet language that was created to supplement HTML. As a *style sheet language*, CSS is the code that explains how a markup language, like HTML, should be presented. When used alongside HTML on a web page, CSS can add a variety of formatting, design, and style details.
 
 # Lessons
 You can either use the written Odin Project lessons or the video lessons in Scrimba.
@@ -17,6 +17,7 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project - More CSS Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-more-css-properties)**
 - **[The Odin Project - Positioning](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-positioning)**
 - **[The Odin Project - Introduction to Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-flexbox)**
+
 
 
 ### Scrimba Links:
