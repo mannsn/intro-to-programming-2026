@@ -16,8 +16,8 @@ Remember to please go to each link in this list and read through the content on 
 - **[The Odin Project - Block and Inline](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/block-and-inline)**
 - **[The Odin Project - More CSS Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-more-css-properties)**
 - **[The Odin Project - Positioning](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-positioning)**
-- **[The Odin Project – Introduction to Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-flexbox)**
-- **[The Odin Project – CSS Media Queries](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-media-queries)** 
+- **[The Odin Project - Introduction to Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-flexbox)**
+
 
 
 ### Scrimba Links:
