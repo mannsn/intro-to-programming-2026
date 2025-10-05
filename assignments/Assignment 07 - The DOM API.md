@@ -80,7 +80,7 @@ Now let's make sure that lesson branch will be reviewed.
 
 - [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-7 has a recent push" notice with a green "Compare & pull request" button. Click that button
 - [ ] Feel free to put notes to yourself or notes for your reviewer in the description (be sure you're including any questions to your reviewer in your assignment submission form though!) and click the green "Create pull request" button.
-- [ ] Copy the address of your pull request page (should look like https://github.com/yourUsername/name-classname/pull/#) and paste it into your assignment submission form.
+- [ ] Copy the address of your pull request page (should look something like https://github.com/yourUsername/name-classname/pull/#) and paste it into your assignment submission form.
 
 ## What next?
    - If you are ready to start on the next lesson and have not gotten your review comments back yet, you can go ahead and merge your pull request and continue working.
