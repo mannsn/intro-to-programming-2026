@@ -9,11 +9,15 @@
 - **Predictability:** The sequential nature of sync operations ensures that tasks are executed in a predictable order, which can be important for tasks requiring strict sequencing.
 - **Inefficiency with I/O Operations:** Sync programming can be inefficient for I/O-bound tasks, as operations like file reading or network requests can block the entire thread until completion.
 
+![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/Lesson08/Synchronous%20Flow.JPG?raw=true)
+
 ### Asynchronous Code
 - **Non-blocking execution:** Asynchronous code allows a program to initiate a task and continue executing other code without waiting for the initiated task to complete.
 - **Real life examples:** Text Messages, Email
 - **Improved responsiveness:** This is crucial for applications where responsiveness is key, such as web servers handling multiple user requests or user interfaces that need to remain interactive during long operations.
 - **Complexity:** Asynchronous code can be more complex to write and debug due to the non-linear flow of execution and the need for mechanisms like callbacks, promises, or async/await keywords to manage results.
+
+![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/Lesson08/Asynchronous%20Flow.JPG?raw=true)
 
 ## Promises
 
