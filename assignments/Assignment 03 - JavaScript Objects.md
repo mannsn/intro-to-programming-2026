@@ -14,7 +14,7 @@
 
 //  console.log("Q#: ", functionName(anyInput))
 
-// ---------- QUESTION 1 ----------
+// ---------- QUESTION 1 --Objects with properties--------
 // Objects are a way to store property:value pairs of data in a variable.  First, create an object called 'myPet'.  Add three properties called 'name', 'species', and 'color' to the 'myPet' object below and assign each of them values.  Use your console.log to print the object.  Use your console.log's to print the values of each property to the console.
 
 // EXAMPLE LOG:
@@ -57,7 +57,7 @@
 // PUT YOUR CODE HERE
 
 
-// ---------- QUESTION 4 ----------
+// ---------- QUESTION 4 ---Object methods-------
 //Let’s explore how to work with object data inside a function. Your task is to define a method called 'describe' in the myPet object. This method should take no parameters and return a sentence using a template literal that describes your pet using its properties.
 
 //Add a method named 'describe' to the myPet object.
@@ -74,7 +74,7 @@
 // PUT YOUR CODE HERE
 
 
-//---------- QUESTION 5 ----deleting a property------
+//---------- QUESTION 5 ----Deleting a property------
 //Using myPet, remove the property color.  Verify the deletion by checking whether the myPet object still has a property named color.  It returns true if the property exists and false otherwise
 
 // EXAMPLE LOG:
@@ -83,7 +83,7 @@
 //Q5 Color property deleted: true
 
 
-//---------- QUESTION 6 ----array of objects, for each------
+//---------- QUESTION 6 ----Array of objects, for each------
 //Create a variable named pets and assign it an array containing three pet objects. Each object should include three properties: name, species, and color with appropriate values. Then, define a function called printPets that uses the forEach method to loop through the array and log each pet’s details to the console. Note: console.log is called within the function
 
 //EXAMPLE CALL:
