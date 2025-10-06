@@ -19,7 +19,7 @@
 
 // As always, click the green Run button at the top of the screen to see the output of your called functions in the Console tab to the right of this screen. Check to make sure that the output you get in your Console is the expected output.
 
-// ---------- QUESTION 1 ----------
+// ---------- QUESTION 1 --Objects with properties--------
 // Objects are a way to store property:value pairs of data in a variable.  First, create an object called 'myPet'.  Add three properties called 'name', 'species', and 'color' to the 'myPet' object below and assign each of them values.  Use your console.log to print the object.  Use your console.log's to print the values of each property to the console.
 
 // EXAMPLE LOG:
@@ -52,8 +52,8 @@ console.log("Q1 color: ", myPet.color);
 myPet.name = "Henry";
 console.log("Q2 updated object", myPet);
 
-// ---------- QUESTION 3 Looping thru properties ---------
-// Now let's see how we can loop thru the properties - this is a common task in JavaScript. Use a for...in loop, a special type of loop in JavasScript designed specifically for iterating over the properties of an object.  See https://www.w3schools.com/js/js_loop_forin.asp for reference.
+// ---------- QUESTION 3 Looping through properties ---------
+// Now let's see how we can loop through the properties - this is a common task in JavaScript. Use a for...in loop, a special type of loop in JavasScript designed specifically for iterating over the properties of an object.  See https://www.w3schools.com/js/js_loop_forin.asp for reference.
 //  Write a for...in loop that iterates through each property in the myPet object and prints the property name and its value to the console in the following format:
 //Q4: propertyName: propertyValue
 //Use console.log() inside the loop to display each key-value pair.
@@ -70,7 +70,7 @@ for (let key in myPet) {
   console.log("Q3: " + key + ":", myPet[key]);
 }
 
-// ---------- QUESTION 4 ----------
+// ---------- QUESTION 4 ---Object methods-------
 //Let’s explore how to work with object data inside a function. Your task is to define a method called describe on the myPet object. This method should take no parameters and return a sentence using a template literal that describes your pet using its properties.
 
 //Add a method named describe to the myPet object.
@@ -95,7 +95,7 @@ myPet.describev1 = function () {
 };
 console.log("Q4 v1: ", myPet.describev1());
 
-//---------- QUESTION 5 ----deleting a property------
+//---------- QUESTION 5 ----Deleting a property------
 //Using myPet, remove the property color.  Verify the deletion by checking whether the myPet object still has a property named color.  It returns true if the property exists and false otherwise
 
 // EXAMPLE LOG:
@@ -107,7 +107,7 @@ delete myPet.color;
 console.log("Q5", "Color property deleted:", !myPet.hasOwnProperty('color'));
 
 
-//---------- QUESTION 6 ----array of objects, for each------
+//---------- QUESTION 6 ----Array of objects, for each------
 //Create a variable named pets and assign it an array containing three pet objects. Each object should include three properties: name, species, and color with appropriate values. Then, define a function called printPets that uses the forEach method to loop through the array and log each pet’s details to the console. Note: console.log is called within the function
 
 //EXAMPLE CALL:
