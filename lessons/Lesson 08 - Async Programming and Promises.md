@@ -14,12 +14,12 @@ Remember to please go to each link in this list and read through the content on 
 With asynchronous code, multiple tasks can be executed at the same time while tasks in the background finish. This is what we call *non-blocking* code. The execution of other code won't stop while an asynchronous task finishes its work.
 
 ```jsx
-let greet_one = "Hello"
-let greet_two = "World!!!"
-console.log(greet_one)
-setTimeout(function(){
+let greet_one = "Hello";
+let greet_two = "World!!!";
+console.log(greet_one);
+setTimeout(function() {
     console.log("Asynchronous");
-}, 10000)
+}, 10000);
 console.log(greet_two);
 ```
 
