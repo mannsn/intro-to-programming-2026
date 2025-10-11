@@ -152,8 +152,8 @@
 // EXAMPLE CALL: (the log is within the function, so you do not need to log the call)
 //    buttonPushed();
 
-// EXAMPLE OUTPUT:  
-//   The button was pushed!
+// EXAMPLE OUTPUT: (we're using this function in the next question as well)
+//   Q12, Q13: The button was pushed!
 
 // PUT YOUR CODE HERE
 
