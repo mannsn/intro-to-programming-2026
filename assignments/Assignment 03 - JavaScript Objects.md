@@ -5,10 +5,7 @@
 // This is the coding assignment for the fourth week of the Intro to Programming course from Code the Dream. The concepts touched on in this assignment include:
 //   - Object Basics
 //   - Primitive vs Object Types
-//   - Object Destructuring
 //   - Manipulating Objects
-
-// NOTE: Arrays are a kind of Object in JavaScript (which is why you can reference an element by number and see what string/number/etc. is in that position of the array).  JavaScript Objects also support a different type of array referred to as an associative array.  Rather than an item in the array being addressed by an integer, it is addressed by a string, and allows you to associate a string name with any type of JavaScript value.  It stores a set of key:value pairs, where the key is a string.
 
 // In this assignment you will write your own code. Your instructions are listed as "comments", meaning the instructions are grayed out and start with '//' at the beginning of the line of code. Put your answers immediately below the instructions for each question. As mentioned in the README.md file, you'll need to use console logs for all the questions to check your code output. Using a function in a console.log is very similar to how you were using them with variables last week. To invoke/call the function use the syntax:
 
@@ -30,7 +27,7 @@
 
 // PUT YOUR CODE HERE
 
-// ---------- QUESTION 2 Modifying properties ---------
+// ---------- QUESTION 2 ---------
 // Now let's see how we can modify the properties. Modify the 'name' property of the 'myPet' object. This name should be different than the value used in Question 1 (e.g. Henry ). Use your console.log's to print the myPet console. Verify the 'name' property is different than the value in Question 1.
 
 // EXAMPLE LOG:
@@ -41,7 +38,7 @@
 // PUT YOUR CODE HERE
 
 
-// ---------- QUESTION 3 Looping thru properties ---------
+// ---------- QUESTION 3 ---------
 // Now let's see how we can loop thru the properties - this is a common task in JavaScript. Use a for...in loop, a special type of loop in JavaScript designed specifically for iterating over the properties of an object.  See https://www.w3schools.com/js/js_loop_forin.asp for reference.
 //  Write a for...in loop that iterates through each property in the myPet object and prints the property name and its value to the console in the following format:
 //Q4: propertyName: propertyValue
@@ -74,7 +71,7 @@
 // PUT YOUR CODE HERE
 
 
-//---------- QUESTION 5 ----deleting a property------
+//---------- QUESTION 5 ----------
 //Using myPet, remove the property color.  Verify the deletion by checking whether the myPet object still has a property named color.  It returns true if the property exists and false otherwise
 
 // EXAMPLE LOG:
@@ -83,7 +80,7 @@
 //Q5 Color property deleted: true
 
 
-//---------- QUESTION 6 ----array of objects, for each------
+//---------- QUESTION 6 ----------
 //Create a variable named pets and assign it an array containing three pet objects. Each object should include three properties: name, species, and color with appropriate values. Then, define a function called printPets that uses the forEach method to loop through the array and log each pet’s details to the console. Note: console.log is called within the function
 
 //EXAMPLE CALL:
@@ -105,7 +102,7 @@
 // PUT YOUR CODE HERE
 
 
-//---------- QUESTION 7 --- Write a construction function to create Pet objects------
+//---------- QUESTION 7 ----------
 //Write a JavaScript constructor function named Dog that defines a blueprint for creating Dog objects. Each Dog object should include the following properties: name, breed, and age. Using this constructor, create two distinct Dog instances with different values for each property. Finally, use console.log() to display both Dog instances in the console.
 
 //EXAMPLE CALL:
@@ -123,7 +120,7 @@
 
 // PUT YOUR CODE HERE
 
-//---------- QUESTION 8 --- Write a function that compares two objects-----
+//---------- QUESTION 8 ----------
 //Write a function that compares two Dog instances objects and checks if they have the same keys and values. Write a function called areObjectsEqual(obj1, obj2) that returns true if both objects have the same keys and values, and false otherwise. 
 //Reuse:
 // - dog1 from question 7
@@ -145,7 +142,7 @@
 
 // PUT YOUR CODE HERE
 
-//---------- QUESTION 9 --- Date object for current date-----
+//---------- QUESTION 9 ----------
 //Learn how to use the built-in Date object in JavaScript to retrieve and display the current date. See https://www.w3schools.com/js/js_dates.asp as a reference. Create a variable called currentDate. Assign it the value of a new Date() object.
 
 //EXAMPLE CALL:
@@ -157,7 +154,7 @@
 // PUT YOUR CODE HERE
 
 
-//---------- QUESTION 10 --- Date object for current date year, month, date-----
+//---------- QUESTION 10 ----------
 //Use JavaScript's Date object to retrieve specific parts of the current date. Using the currentDate from Question 9, write three separate lines of code to extract:
 
 //The year using .getFullYear()
