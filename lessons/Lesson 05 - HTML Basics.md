@@ -30,7 +30,7 @@ Watch the following sections:
 
 ### HTML
 
-*Hypertext Markup Language (created in 1989)*, commonly called *HTML*, is a programming language that is used to create the structure of a web page. The basic idea of HTML is that the brackets < > surrounding the code of a web page tell the web browser what information it's working with.
+*Hypertext Markup Language (created in 1989)*, commonly called *HTML*, is a markup language that is used to create the structure of a web page. The basic idea of HTML is that the brackets < > surrounding the code of a web page tell the web browser what information it's working with.
 
 At its core, hypertext is digital text that can link to other places, such as one website connecting to another. HTML, a markup language, uses tags like **`<head>`** and **`<body>`** to structure web content in a way that browsers can display. Unlike technical programming code, HTML uses human-readable words, making it user-friendly for web content creation.
 
@@ -41,7 +41,7 @@ HTML is the foundational component of a website adding these elements to a web p
 - Links: Clickable paths to other places, like other websites
 - Containers: Elements that are used to give web pages structure for layout purposes
 
-### Tags vs Elements
+### Element vs Tag vs Attribute
 
 HTML **_elements_** are the basic building blocks of a webpage. Each HTML element represents a different type of content (such as a link, image, heading, list, paragraph, etc.). Each HTML element is represented using 1 or 2 tags.
 
@@ -66,7 +66,6 @@ In the HTML element above, notice that it has an opening tag: `<p>`. The closing
 ```
 
 For html elements which require 2 tags, the end tag will look very similar to the begin tag. Except, the end tag will have the `/` character in it.
-
 
 # Visual Studio Code
 

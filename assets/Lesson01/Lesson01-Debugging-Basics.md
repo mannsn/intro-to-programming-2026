@@ -11,7 +11,7 @@ We will talk a little more about console windows in future lessons, but for now,
 ```javascript
 console.log("string to log")
 ```
-The data located between the parenthesis is logged to the console window which is part of the embedded/interactive assignment on the javascript lesson pages.
+The data located between the parenthesis is logged to the console window which is part of the embedded/interactive assignment on the JavaScript lesson pages.
 
 The AI Assignment Reviewer IS NOT a substitute for debugging your program. The reviewer will give you valuable information on things that might be wrong in your code, but is not the same as actually debugging your code.
 
