@@ -50,7 +50,7 @@ function reverseString(str) {
 
 // Test cases
 console.log ("Q2 reverseString: ", "HelloWorld", reverseString("HelloWorld"));   // Q2 reverseString: HelloWorld dlroWolleH
-console.log ("Q2 reverseString: ", "Javascript", reverseString("Javascript"));   // Q2 reverseString: JavaScript tpircSavaJ  
+console.log ("Q2 reverseString: ", "JavaScript", reverseString("JavaScript"));   // Q2 reverseString: JavaScript tpircSavaJ  
 console.log ("Q2 reverseString: ", "", reverseString(""));                       // Q2 reverseString: 
 
 // ---------- QUESTION 3 ----------
