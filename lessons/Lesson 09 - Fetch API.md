@@ -17,8 +17,6 @@ At a high level, `fetch` is used to make HTTP requests on the browser. It uses
 
 Since the `fetch` API is provided by almost all major browsers, you can use the `fetch` API by opening up the "Console" tab in Chrome or Firefox to use the built-in `fetch` function.
 
-`fetch` is a function that can only be used in the browser's JavaScript runtime environment. Currently, it is not a built-in function on Node.js, the runtime environment you are using in VSCode.
-
 ```jsx
 fetch('https://jsonplaceholder.typicode.com/posts/1')
   .then(response => {
@@ -44,11 +42,6 @@ The second parameter is optional it defines the other components of the request 
 - body - value should be a string of the body of the request
 
 The `fetch` function returns a Promise that will be fulfilled when a response comes back from the server. The resolved value of the returned Promise is a [fetch Response object](https://developer.mozilla.org/en-US/docs/Web/API/Response) containing information about the response components.
-
-Now watch these two videos on Fetch:
-
-1. [Learn Fetch API in 6 minutes](https://www.youtube.com/watch?v=cuEtnrL9-H0&t=2s)
-2. [GET data from API & display in HTML with JS](https://www.youtube.com/watch?v=zUcc4vW-jsI)
 
 ### The async and await keywords
 
@@ -82,8 +75,3 @@ fetchData();
 In this example, we define an **`async`** function called **`fetchData`**. Inside the function, we use the **`await`** keyword to make a GET request to the JSONPlaceholder API to fetch the post with an ID of 1. We also handle any potential errors using a **`try...catch`** block.
 
 The response is first checked for its status using **`response.ok`**. If the response is successful, we use **`await response.json()`** to parse the JSON data. Finally, we log the data to the console.
-
-Now watch these two videos on Async/Await:
-
-1. [The Async Await Episode](https://www.youtube.com/watch?v=vn3tm0quoqE&t=413s)
-2. [JS Async/Await Simply Explained](https://www.youtube.com/watch?v=wKY4-WMmbZw)

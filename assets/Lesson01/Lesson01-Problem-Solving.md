@@ -27,7 +27,7 @@ By the end of this lesson, you should be able to do the following:
 
 ### Understand the Problem
 <span id="problem-solving-stages"></span>
-The first step to solving a problem is understanding exactly what the problem is.<span id="important-understand-problem"> If you don't understand the problem you won't know when you've successfully solved it and may waste a lot of time on a wrong solution</span>.
+The first step to solving a problem is understanding exactly what the problem is.<span id="important-understand-problem"> If you don't understand the problem, you won't know when you've successfully solved it and may waste a lot of time on a wrong solution</span>.
 
 <span id="help-understand-problem">To gain clarity and understanding of the problem, write it down on paper, reword it in plain English until it makes sense to you, and draw diagrams if that helps. When you can explain the problem to someone else in plain English, you understand it.</span>
 

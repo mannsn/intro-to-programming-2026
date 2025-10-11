@@ -2,7 +2,7 @@
 
 - [Problem-Solving](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Problem-Solving)
 
-# Javascript Basics
+# JavaScript Basics
 
 **You can _either_ use the written Odin Project lessons _or_ the video lessons in Scrimba. You can do both if you have them time and want to, but using just one or the other will teach what is needed to complete the coding assignments.**
 
@@ -20,7 +20,7 @@ For the Odin Project, Go to each link in this list and read through the content 
 - [V2 Scrimba - JS Deep Dive - Types & Conditionals](https://v2.scrimba.com/javascript-deep-dive-c0a/~0g)
 - [V2 Scrimba - JS Deep Dive - Functions](https://v2.scrimba.com/javascript-deep-dive-c0a/~0q)
 
-# Javascript Naming and Style Conventions
+# JavaScript Naming and Style Conventions
 
 - [Naming and Style Conventions](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Naming-Conventions)
 
@@ -38,7 +38,7 @@ Software repositories are especially important on projects being developed by a 
 
 There are many cloud based software repositories. In this class we will use GitHub which is based on git which is a distributed version control system. We will learn more about git in lesson 2.
 
-**_TBD Video - Create a new repository on Github_**
+**_TBD Video - Create a new repository on GitHub_**
 
 ## Assignment - Create a New GitHub Repository
 Create a new repository in your GitHub account by following these steps:

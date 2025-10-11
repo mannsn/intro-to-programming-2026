@@ -23,7 +23,7 @@ An "open source" means that the source code of something is freely available and
 * [ARTIC](https://api.artic.edu/docs/#introduction) – an art API from the Art Institute of Chicago
 * [TheDogAPI](https://thedogapi.com/) or the [TheCatAPI](https://thecatapi.com/) – APIs about (you guessed it!) Dogs or Cats
 * [Soccer](https://api-sports.io/documentation/football/v3) - for all the Soccer lovers out there
-* DEPRECATED, certificate expired - [SampleAPIs](https://sampleapis.com/api-list/coffee) – an API for coffee lovers
+
 
 This week, just focus on accomplishing the following:
  - [ ] Familiarize yourself with the documentation of whichever API you decide to use

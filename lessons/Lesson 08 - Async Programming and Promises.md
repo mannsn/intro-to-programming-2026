@@ -26,10 +26,10 @@ We talked about callbacks in lesson 4.  There are some disadvanatages to callbac
 - **Callbacks** are functions passed to other functions to be executed later
 - **Promises** are objects representing the eventual success or failure of an asynchronouse operation with methods for handling these outcomes.  They are called *promises* because they guarantee that an asynchronous operation, which has not yet completed, will eventaully produce a value or a reason for its failure.  A promise is a placeholder object for a result that is not yet available.
 
+It's important to understand the concept of promises, but we won't be creating them in this lesson.  They are the basis for the fetch API which we will learn about in the next lesson.
+
 ## Lesson Materials
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
 
 - **[The Odin Project – Asynchronous Code](https://www.theodinproject.com/lessons/node-path-javascript-asynchronous-code)**
-
-- **[Javascript Promise Article](https://dmitripavlutin.com/what-is-javascript-promise/)**

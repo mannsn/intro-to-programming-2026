@@ -1,6 +1,6 @@
 
 
-# Javascript Objects
+# JavaScript Objects
 Read these 2 explanations of objects and how they work.
 
   https://javascript.info/object

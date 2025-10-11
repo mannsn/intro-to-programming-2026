@@ -8,7 +8,7 @@
 Lessons are linked directly into the Learns App with the raw link found in the GitHub repo.  The link is copied into the Learns App data.
 
 ## Answers
-Answer keys for the Javascript Lessons
+Answer keys for the JavaScript Lessons
 
 ## Assets
 There is a folder for each lesson containing any images and additional markdown files for the lessons.
