@@ -47,7 +47,7 @@ A version control system is a software tool that tracks and manages changes to f
 
 Git can be confusing when you first start learning about it. There are quite a few steps which might seem unnecessary, but will definitely make sense when you are working in a team environment.
 
-When you created your GitHub repository, you created a repository in a cloud environment. While you can edit files remotely, you will want to have your code in a local development environment where you can easily run and debug it. This week, we are going to copy our software repository to our local computer.  This is called cloning.  There are gui interfaces that will let you submit git commands, but we are going to learn how to submit the commands through a terminal interface.
+When you created your GitHub repository, you created a repository in a cloud environment. While you can edit files remotely, you will want to have your code in a local development environment where you can easily run and debug it. This week, we are going to copy our software repository to our local computer.  This is called cloning.  There are GUI interfaces that will let you submit git commands, but we are going to learn how to submit the commands through a terminal interface.
 **TODO - Image Add link to image**
 
 

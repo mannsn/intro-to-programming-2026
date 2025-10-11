@@ -41,3 +41,5 @@ Once everything is loaded and running, you can click, scroll, or type, and the J
 - The browser processes HTML, CSS, and JavaScript to render a working webpage.
 
 - JavaScript adds the dynamic, interactive parts.
+
+TBD Add diagram for How the Web Works
