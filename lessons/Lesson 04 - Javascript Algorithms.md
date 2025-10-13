@@ -154,7 +154,8 @@ Now, let's submit a PR.
 - [ ] Update your local main branch to include your lesson-3 work by pulling your changes from your GitHub repository main. Use the following git command in your terminal to do this: `git pull origin main`.
 
 ## Git / GitHub Workflow
-The following image shows the steps involved in using Git and GitHub.  Pay attention to where files are located in each step - either on your local machine or remote in GitHub.  
-We will work on the entire workflow in pieces over Lessons 2, 3 and 4.
+The following image shows the entire workflow involved in using Git and GitHub.  Pay attention to where files are located in each step - either on your local machine or remote in GitHub.  
 
-![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/GitFlow.jpg?raw=true)
+In this lesson, we have completed the portion of the workflow outlined with the red dashed line, which completed the entire workflow.
+
+![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/Lesson04/GitFlow-Lesson04.jpg?raw=true)

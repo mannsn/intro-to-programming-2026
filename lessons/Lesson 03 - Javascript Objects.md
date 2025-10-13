@@ -34,7 +34,8 @@ This week, we are going to make some changes in our repository, commit them and 
    - [ ] **NOTE:** if you get a "fatal: The current branch..." error message.  READ the message and follow the instructions in that message to confirm that you push your work to your GitHub account.
 
 ## Git / GitHub Workflow
-The following image shows the steps involved in using Git and GitHub.  Pay attention to where files are located in each step - either on your local machine or remote in GitHub.  
-We will work on the entire workflow in pieces over Lessons 2, 3 and 4.
+The following image shows the entire workflow involved in using Git and GitHub.  Pay attention to where files are located in each step - either on your local machine or remote in GitHub.  
 
-![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/GitFlow.jpg?raw=true)
+In this lesson, we have completed the portion of the workflow outlined with the red dashed line. We will work on the remaining workflow in Lesson 4.
+
+![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/Lesson03/GitFlow-Lesson03.jpg?raw=true)
