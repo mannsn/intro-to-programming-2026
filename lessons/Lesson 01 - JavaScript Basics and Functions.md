@@ -22,13 +22,19 @@ For the Odin Project, Go to each link in this list and read through the content 
 
 # JavaScript Naming and Style Conventions
 
-- [Naming and Style Conventions](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Naming-Conventions)
+### Read this page on Naming and Style Conventions: ###
+
+[Naming and Style Conventions](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Naming-Conventions)
 
 # Debugging Basics
 
-- [Debugging Basics](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Debugging-Basics)
+### Read this page on debugging basics: ###
 
-**_TBD Video and Lesson Section on debugging basics_**
+[Debugging Basics](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Debugging-Basics)
+
+### Watch this video on debugging basics: ###
+
+[Debugging Basics Video](https://www.youtube.com/watch?v=RI_QQZlk4gk&list=PLYvE5YXWTfw88MpcXKPmPPJtqm_gQ3ex8&index=2_)
 
 # Software Repositories
 
@@ -38,7 +44,9 @@ Software repositories are especially important on projects being developed by a 
 
 There are many cloud based software repositories. In this class we will use GitHub which is based on git which is a distributed version control system. We will learn more about git in lesson 2.
 
-**_TBD Video - Create a new repository on GitHub_**
+### Watch this video on how to create a new GitHub Repository: ###
+
+[Creating a New GitHub Repository Video](https://www.youtube.com/watch?v=0AVVOi3hUmE&list=PLYvE5YXWTfw88MpcXKPmPPJtqm_gQ3ex8&index=1)
 
 ## Assignment - Create a New GitHub Repository
 Create a new repository in your GitHub account by following these steps:
