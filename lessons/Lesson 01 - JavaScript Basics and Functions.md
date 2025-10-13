@@ -57,3 +57,8 @@ Create a new repository in your GitHub account by following these steps:
 - [ ] Be sure PUBLIC is selected and check the "Initialize this repository with: Add a README file" check box.
 - [ ] Click "Create Repository"
 
+## Git / GitHub Workflow
+The following image shows the entire workflow involved in using Git and GitHub.  Pay attention to where files are located in each step - either on your local machine or remote in GitHub.  
+We will work on the entire workflow in pieces over Lessons 2, 3 and 4.
+
+![image](https://github.com/Code-the-Dream-School/intro-to-programming-2026/blob/main/assets/Lesson01/GitFlow - Lesson 1.jpg?raw=true)
