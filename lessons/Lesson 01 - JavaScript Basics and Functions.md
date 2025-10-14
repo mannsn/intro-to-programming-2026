@@ -56,6 +56,7 @@ Create a new repository in your GitHub account by following these steps:
 - [ ] Fill in the fields to give your repository a name (use your name-**_classname_** as the name example: `maria-santiago-jupiter`) and description (example: portfolio project for Intro to Programming course with Code the Dream)
 - [ ] Be sure PUBLIC is selected and check the "Initialize this repository with: Add a README file" check box.
 - [ ] Click "Create Repository"
+- [ ] When you submit your assignment this week, please copy and paste the link to the repository you created in the "second link to assignment" field.
 
 ## Git / GitHub Workflow
 The following image shows the entire workflow involved in using Git and GitHub.  Pay attention to where files are located in each step - either on your local machine or remote in GitHub.  
