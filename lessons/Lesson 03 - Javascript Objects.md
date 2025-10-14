@@ -32,6 +32,7 @@ This week, we are going to make some changes in our repository, commit them and 
    - [ ] Create a commit message for reference.  Run `git commit -m "my first commit"`
    - [ ] Push these changes to your GitHub repository from your local computer by running `git push origin lesson-3`
    - [ ] **NOTE:** if you get a "fatal: The current branch..." error message.  READ the message and follow the instructions in that message to confirm that you push your work to your GitHub account.
+   - [ ] When you submit your assignment this week, please copy and paste the link to the branch you created in the "second link to assignment" field.
 
 ## Git / GitHub Workflow
 The following image shows the entire workflow involved in using Git and GitHub.  Pay attention to where files are located in each step - either on your local machine or remote in GitHub.  
