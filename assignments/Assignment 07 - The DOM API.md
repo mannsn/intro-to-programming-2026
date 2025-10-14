@@ -45,7 +45,7 @@
 
 ### Create List of Skills
 - [ ] Open your `index.js` file
-- [ ] List your technical skills by creating an Array of String values and store it in a variable named `skills`
+- [ ] List your technical skills by creating an Array of String values and store it in a variable named `skills`.  You did something very similar in Assignment 2.
   - Example: `["JavaScript", "HTML", "CSS", "Adobe Photoshop", "GitHub"]`
 - [ ] Create a variable named `skillsSection` and use "DOM Selection" to select the skills section by id
   - hint: `querySelector` or `getElementById` method

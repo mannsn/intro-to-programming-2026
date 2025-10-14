@@ -36,7 +36,7 @@ This section contains questions for you to check your understanding of the lesso
 
 In JavaScript, scope defines the accessibility of variables, functions, and objects within different parts of your code. It determines where these elements are visible and can be referenced. 
 
-https://www.w3schools.com/js/js_scope.asp
+[Javascript Scope](https://www.w3schools.com/js/js_scope.asp)
 
 
 # Version Control System / Git
@@ -60,7 +60,7 @@ The Odin link does not provide a link to the Windows installer which can be foun
 After installing, follow the rest of the instructions on the Odin page for setting up Git.
 
 ### Watch this video on how to clone your GitHub repo to your local machine: ###
-[Cloning Your GitHub Repository](https://www.youtube.com/watch?v=L1Pg1DgQf1I&list=PLYvE5YXWTfw88MpcXKPmPPJtqm_gQ3ex8&index=3)
+[Cloning Your GitHub Repository](https://www.youtube.com/watch?v=L1Pg1DgQf1I&list=PLYvE5YXWTfw88MpcXKPmPPJtqm_gQ3ex8&)
 
 ## Assignment - CLONE your GitHub Repository to your local machine
 Clone the repository you just created in GitHub to your local computer by following these steps:

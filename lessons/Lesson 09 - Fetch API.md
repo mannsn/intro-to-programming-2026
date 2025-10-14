@@ -1,3 +1,5 @@
+# Fetch API
+
 Go through **both** resources (Odin **and** Scrimba) for this topic as they will help you gain a more clear understanding of this topic.
 
 Remember to please go to each link in this list and read through the content on that page. If there are links you are redirected to as you read/work through the content, follow those links as well and read the content there too.
@@ -17,6 +19,7 @@ At a high level, `fetch` is used to make HTTP requests on the browser. It uses
 
 Since the `fetch` API is provided by almost all major browsers, you can use the `fetch` API by opening up the "Console" tab in Chrome or Firefox to use the built-in `fetch` function.
 
+You can try this out by running it locally in an html file.
 ```jsx
 fetch('https://jsonplaceholder.typicode.com/posts/1')
   .then(response => {

@@ -165,22 +165,41 @@
 // PUT YOUR CODE HERE
 
 // ---------- QUESTION 13 ----------
-// Back in the "old days", the early 2000s, this was a famous technical interview question. Write a function definition that takes NO parameters. The function will loop from 1 to 15 and return an array of numbers. While looping, the function will check if the current value in the loop is divisible by 3, by 5, or by both. If the current value in the loop is divisible by 3, the function will add the string "fizz" to an array. If the current value in the loop is divisible by 5, the function will add the string "buzz" to the array. If the current value in the loop is divisible by both, the function will add the value "fizzbuzz" to the array. If the number isn't divisible by 3, 5, OR both, it will add the number to the array.  The function will return the array of values.
+// Write a function called 'displaySkills' that takes an array of string values that correspond to skills that you have.
+// Iterate through the array and display each skill.
 
-// EXAMPLE LOG:
-//    console.log("Q13: ", fizzBuzz();
+// EXAMPLE CALL:
+//    const skills = ["JavaScript", "HTML", "CSS", "Adobe Photoshop", "GitHub"];
+//    displaySkills(skills);
 // EXAMPLE OUTPUT:
-//    Q13: [1,2,'fizz',4,'buzz','fizz',7,8,'fizz','buzz',11,'fizz',13,14,'fizzbuzz']
+//    Javascript
+//    HTML
+//    CSS
+//    Adobe Photoshop
+//    GitHub
 
 // PUT YOUR CODE HERE
 
 
 // ---------- QUESTION 14 ----------
+// Back in the "old days", the early 2000s, this was a famous technical interview question. Write a function definition that takes NO parameters. The function will loop from 1 to 15 and return an array of numbers. While looping, the function will check if the current value in the loop is divisible by 3, by 5, or by both. If the current value in the loop is divisible by 3, the function will add the string "fizz" to an array. If the current value in the loop is divisible by 5, the function will add the string "buzz" to the array. If the current value in the loop is divisible by both, the function will add the value "fizzbuzz" to the array. If the number isn't divisible by 3, 5, OR both, it will add the number to the array.  The function will return the array of values.
+
+// EXAMPLE LOG:
+//    console.log("Q13: ", fizzBuzz();
+// EXAMPLE OUTPUT:
+//    Q14: [1,2,'fizz',4,'buzz','fizz',7,8,'fizz','buzz',11,'fizz',13,14,'fizzbuzz']
+
+// PUT YOUR CODE HERE
+
+
+// ---------- QUESTION 15 ----------
 // Write a function called testScope that shows the difference between global, function and block scope.
-// Create a 
-
-
-// TBD
+// Create 3 variables - 
+//   let globalVar = "globarVar";
+//   let functionVar = "functionVar";
+//   let blockVar = "blockVar";
+// Place the variables correctly in your code and log them.
+// Also, place 2 log statements for the functionVar and blockVar that are commented out, but would result in an error if uncommented - because the variable they are referencing is out of scope.
 
 // PUT YOUR CODE HERE
 

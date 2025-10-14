@@ -1,3 +1,4 @@
+``` javascript
 // Answer key for Lesson 01
 
 // ---------- QUESTION 1 ----------
@@ -249,3 +250,4 @@ function biggestStringLength(word1, word2) {
 console.log("Q15: ", biggestStringLength("Code", "Dream"));
 console.log("Q15: ", biggestStringLength("", "Dream"));
 
+```

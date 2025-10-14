@@ -1,5 +1,4 @@
-
-# Open API Project
+# Open API
 
 This week we're going to do something a little fun where you can explore an Open API and use your creativity. You will have the opportunity to use a lot of what you have already learned.
 
