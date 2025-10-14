@@ -6,13 +6,9 @@
 
 ### Assignment: Task List / Deliverables
 
-
-This week, just focus on accomplishing the following:
-  - [ ] Create your basics (index.html, index.js, index.css) but don't go too in depth with any of them yet; just be sure your pages link correctly to each other
- - [ ] Repeat the portfolio part of the assignment above for this project to be sure that your fetch is working and that you're getting a response.  You don't need to display any of it yet, but you should at least be able to console.log the response so you can see what data you get back.  
- - [ ] Put a link to your Open API project repository in the readme.md file of your Portfolio project so your reviewer can easily find/look at your Open API project from your portfolio project.  You can add a link to your read me by using the following syntax:
-`[My Open API Project](https://github.com/yourUsernameHere/yourname-open-api)` Put the words you want the link to be in hard brackets `[ ]` and the link to the repository in parentheses `( )` 
-
+- [ ] Review the Open API rubric found here: 
+[Open API Rubric](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Open-API-Rubric)
+and use your own creativity and skills you have learned so far in the class to create a page that meets these guidelines.
 
 ### Back up to the cloud
 Once you've made the above changes to your html file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:
@@ -20,7 +16,7 @@ Once you've made the above changes to your html file, follow the below instructi
 - [ ] Check the status of the changes you just made (creating a js folder and the index.js file within, linking the index.js to your html file) by running git status in your terminal
 - [ ] Stage all your changes for commit by running `git add .` in your terminal
 - [ ] Run `git status` again to see how things have changed. You should get a response indicating changes staged for commit.
-- [ ] Create a commit message for reference. You can use a different message if you wish. Run `git commit -m "js added, created footer and skills"`
+- [ ] Create a commit message for reference. You can use a different message if you wish. Run `git commit -m "added open api page"`
 - [ ] Push these changes to your GitHub repository from your local computer by running `git push`
 
 ### Submit Assignment
