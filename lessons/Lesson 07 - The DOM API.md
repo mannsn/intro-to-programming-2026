@@ -26,3 +26,5 @@ Remember to please go to each link in this list and read through the content on 
 - **[Creating and Modifying HTML Elements](https://v2.scrimba.com/javascript-deep-dive-c0a/~02g)**
 - **[Dynamically Adding Styles](https://v2.scrimba.com/javascript-deep-dive-c0a/~02i)**
 - **[Understand and Work with Events](https://v2.scrimba.com/javascript-deep-dive-c0a/~02j)**
+
+##  TODO - video on how to use the developer tools in the browser
