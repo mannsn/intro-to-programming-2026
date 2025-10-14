@@ -1,28 +1,87 @@
-### Get organized and write some code!
-- [ ] In your GitHub repository, if you have not yet merged your pull request from last week, merge your open lesson-10 pull request by going to the "Pull Requests" tab of your repository. Click on your open pull request, then click on the green 'Merge Pull Request" and confirm the merge. This will update your main branch with the work you did on your lesson-10 branch.
-- [ ] Open your code editor and, in the terminal, make sure you're on your main branch. If you're still on your lesson-10 branch, you can switch to your main branch by using the git command `git checkout main`.
-- [ ] Update your local main branch to include your lesson-10 work by pulling your changes from your GitHub repository main. Use the following git command in your terminal to do this: `git pull origin main`
-- [ ] Still in your terminal, create a new local branch to keep track of just the work you'll do for this assignment by running `git checkout -b lesson-11` in the terminal. Doing this also copies the lesson-10 work you merged to main and pulled to your local machine so now all your branches should be identical on your local machine.
+### Final Project Submission Details
 
-### Assignment: Task List / Deliverables
+Final week!  
 
+This week you'll finish any work on your Portfolio and Open API projects.  Be sure you've merged any open pull requests to the main branches for both of your projects when your work is completed and before you submit.  When you submit your projects, you'll use your usual Assignment Submission process (the button at the bottom of your lesson page) and put your portfolio repository link in the "Link to your Coding Assignment / Pull Request / Final Project Repository" field.  
+It should look like `https://github.com/yourUsername/yourRepositoryName`.  
+Use the "Link to your SECOND Coding Assignment / Pull Request / Final Project Repository" field to submit your Open API project.  
+It should look like `https://github.com/yourUsername/yourOpenAPIProjectName`.  
+The form will have new questions on it regarding what you would like to do next with our program.
 
-### Back up to the cloud
-Once you've made the above changes to your html file, follow the below instructions to push a copy from your local machine like you did at the end of last assignment. Make sure your code gets copied to GitHub by adding changes to staging, committing the staged changes, and pushing them from your local machine to GitHub:
+As long as your final projects meet rubric requirements and you've taken/passed your assessment (which was emailed to you at the start of this lesson week) you will advance to the next course of your choosing.
 
-- [ ] Check the status of the changes you just made (creating a js folder and the index.js file within, linking the index.js to your html file) by running git status in your terminal
-- [ ] Stage all your changes for commit by running `git add .` in your terminal
-- [ ] Run `git status` again to see how things have changed. You should get a response indicating changes staged for commit.
-- [ ] Create a commit message for reference. You can use a different message if you wish. Run `git commit -m "js added, created footer and skills"`
-- [ ] Push these changes to your GitHub repository from your local computer by running `git push`
+### Project Demo Details
 
-### Submit Assignment
-Now let's make sure that lesson branch will be reviewed.
+It is good practice to talk about what you have learned and know about project as you will be asked to talk about your experiences in job interviews.  This is why we ask all students to give a short demo of their final projects.  This demo is NOT graded and your performance in the demo will have no bearing on your graduation.  Please record a 3-5 minute presentation that touches on all of the following:
+ - [ ] Scroll the length of your portfolio to show your format and styling of your content
+ - [ ] Demonstrate your form section by entering one or two user entries and showing if/how entries can be edited or deleted
+ - [ ] Enter Inspector/Developer Mode to demonstrate how your portfolio looks on different device sizes
+ - [ ] Scroll the length of your Open API project to show your format and styling of your content
+ - [ ] Demonstrate your navigation to show that both required endpoints are displaying to the user
+ - [ ] Enter Inspector/Developer Mode to demonstrate how your API project looks on different device sizes
+ - [ ] Share what the most challenging part of either/both projects and what you enjoyed working on the most in either/both projects
 
-- [ ] Go to your GitHub repository page in your web browser now, and you should see a "lesson-11 has a recent push" notice with a green "Compare & pull request" button. Click that button
-- [ ] Feel free to put notes to yourself or notes for your reviewer in the description (be sure you're including any questions to your reviewer in your assignment submission form though!) and click the green "Create pull request" button.
-- [ ] Copy the address of your pull request page (should look like https://github.com/yourUsername/name-classname/pull/6) and paste it into your assignment submission form.
+Rubric details for the Portfolio Project and the Open API Project can be seen below.  Be sure both your projects meet the requirements specified for each.
 
-## What next?
-   - If you are ready to start on the next lesson and have not gotten your review comments back yet, you can go ahead and merge your pull request and continue working.
-   - if you are unsure about your work this week, schedule a 1:1 session with a mentor and review your work together before merging.
+### How to record your presentation
+You can record your presentation in any of these three ways: 
+ 1. Logging into your personal Zoom account and record your personal meeting where only you are in attendance and you are screensharing your work ([this is a link to a video on how to do this](https://www.youtube.com/watch?v=njwbjFYCbGU))
+ 2. Use a screen recording program already on your machine
+    * [Mac users can use this link to watch a how-to video](https://www.youtube.com/watch?v=w9Byefp51tY)
+    * [Windows users can use this link to watch a how-to video](https://www.youtube.com/watch?v=PJB7pM5bvNI)
+ 4. Use an online option such as loom ([link to a how to video on loom here](https://www.youtube.com/watch?v=oAdLPbfXcQo)).
+
+### How to upload your video so it can be shared
+<details>
+<summary>Click here to expand detailed instructions on how to upload your recording</summary>
+<br>
+<h4>1. Make sure you're logged in to youtube.</h4>
+ <p>If you don't have a youtube account, <a href="https://support.google.com/youtube/answer/161805?hl=en&co=GENIE.Platform%3DDesktop">create one by following these instructions</a>.</p>
+ <p>You will know you're logged in if you have an initial/icon/other in the top right corner (where the M in the brown circle is on this screenshot):</p>
+ 
+ ![User logged in to youtube account](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.20%E2%80%AFPM.png?raw=true)
+
+ <h4>2. Click `+ Create` in the top right and select `Upload video`</h4>
+ 
+ ![Create menu expanded](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.27%E2%80%AFPM.png?raw=true)
+
+ <h4>3. In the Upload videos window that appears, click the black `Select files` button</h4>
+ <p>You'll need to select the file of your recording you have saved on your computer.</p>
+ 
+ ![Upload videos modal](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.01.35%E2%80%AFPM.png?raw=true)
+
+<h4>4. The file title will be the default video title.  You can change this to include your name and "Intro to Programming Final Project Presentation"</h4>
+
+![Edit Video Details title](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.17%E2%80%AFPM.png?raw=true)
+
+<h4>5. Scroll down under the title; select "No, it's not made for kids" and click on the `Show more` gray button to make further setting changes</h4>
+
+![Adjust video settings](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.02.30%E2%80%AFPM.png?raw=true)
+
+<h4>6. You'll want to be sure the following options for some of the sections that appear after click `Show more` are set to the following:</h4>
+
+ - [ ] Altered content: select "No" since you have not used AI to alter reality in your video
+ 
+ - [ ] Recording date and location: please select the date you made your final project recording
+      
+ - [ ] Shorts remixing: select "Don't allow remixing"
+       
+ - [ ] Comments and ratings: if you would like classmates to leave comments, leave comments "On", otherwise you can turn them off by selecting "Off".  _NOTE: we do not and cannot monitor comments.  Please report anything concerning to Code the Dream but have screenshots if needed._  You can also UNcheck the "Show how many viewers like this video if you wish.
+       
+ - [ ] Click the black `Next` button in the bottom right to proceed from the Details section of the upload through the Video elements and Checks portion.
+       
+ - [ ] Once you are on the Visibility section of the upload, select "Unlisted" as seen here
+
+![Select Unlisted](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.04.52%E2%80%AFPM.png?raw=true)
+
+ - [ ] Lastly, click `Save` and copy your video link as seen here
+
+![Save and copy](https://github.com/Code-the-Dream-School/intro-to-programming-2025/blob/d2f9b35d7206eeb0af24f85a8e8e5d97d43cbfad/images/Screenshot%202025-01-27%20at%204.05.09%E2%80%AFPM.png?raw=true)
+ 
+</details>
+
+### Submitting your recording
+Once you have recorded your presentation, please use your regular Lesson Assignment Submission Form for this week (Lesson 15) to turn in your final projects and your recording. The parts of the form regarding the video are at the very bottom.  You will also indicating what class you'd like to take next.  Your final projects will be reviewed during the week following the official last day of class and you'll receive email(s) with results of that review and any next steps with our program. 
+
+You can view the gallery of your and your classmates' final project presentations here: [Kepler Final Project Presentations](https://airtable.com/appoSRJMlXH9KvE6w/shrq95dhzEdxNRsvc)
+
