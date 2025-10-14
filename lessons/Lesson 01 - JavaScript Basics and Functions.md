@@ -34,7 +34,7 @@ For the Odin Project, Go to each link in this list and read through the content 
 
 ### Watch this video on debugging basics: ###
 
-[Debugging Basics Video](https://www.youtube.com/watch?v=RI_QQZlk4gk&list=PLYvE5YXWTfw88MpcXKPmPPJtqm_gQ3ex8&index=2_)
+[Debugging Basics Video](https://www.youtube.com/watch?v=RI_QQZlk4gk)
 
 # Software Repositories
 
@@ -46,7 +46,7 @@ There are many cloud based software repositories. In this class we will use GitH
 
 ### Watch this video on how to create a new GitHub Repository: ###
 
-[Creating a New GitHub Repository Video](https://www.youtube.com/watch?v=0AVVOi3hUmE&list=PLYvE5YXWTfw88MpcXKPmPPJtqm_gQ3ex8&index=1)
+[Creating a New GitHub Repository Video](https://www.youtube.com/watch?v=0AVVOi3hUmE)
 
 ## Assignment - Create a New GitHub Repository
 Create a new repository in your GitHub account by following these steps:
