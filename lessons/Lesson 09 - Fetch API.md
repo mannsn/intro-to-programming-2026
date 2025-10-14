@@ -75,3 +75,9 @@ fetchData();
 In this example, we define an **`async`** function called **`fetchData`**. Inside the function, we use the **`await`** keyword to make a GET request to the JSONPlaceholder API to fetch the post with an ID of 1. We also handle any potential errors using a **`try...catch`** block.
 
 The response is first checked for its status using **`response.ok`**. If the response is successful, we use **`await response.json()`** to parse the JSON data. Finally, we log the data to the console.
+
+## Final Project Rubric
+
+Now is a good time to review the rubric for the portfolio portion of your final project.
+
+[Portfolio Rubric](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Portfolio-Rubric)

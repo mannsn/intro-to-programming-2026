@@ -1,14 +1,16 @@
 
 # Open API Project
 
-This week we're going to do something a little fun where you can explore an Open API and use your creativity.  There isn't a lot of lesson material.  You will have the opportunity to use a lot of what you have already learned.
+This week we're going to do something a little fun where you can explore an Open API and use your creativity. You will have the opportunity to use a lot of what you have already learned.
 
-# Open Source
+## Open Source
 "Open Source" means that the source code of something is freely available and can be redistributed and modified.  We have identified several options of open source APIs that allow you to use their data without paying for access to that data.  
 
-Use one of the following open source APIs to create a page that makes 2 distinct calls to the API. For Example: if using Open-Meteo, the weather API, you could display (1) the temperature and (2) the weather condition.  Take a look at the options below and decide which one(s) interest you the most.
+Use one of the following open source APIs to create a page that makes 2 distinct calls to the API and displays the returned data. 
 
-# Open Source API options:
+For Example: if using Open-Meteo, the weather API, you could display (1) the temperature and (2) the weather condition.  Take a look at the options below and decide which one(s) interest you the most.
+
+## Open Source API options:
 
 You may use any of these.
 The dog and cat APIs have some very good examples of calls using fetch.
@@ -30,7 +32,7 @@ Watch this short video on API Keys:
 
 This video mentions that you should keep API Keys private and protected.  In this case, it is fine to create a constant to hold the key.
 
-# Add a second page to your final project
+## Add a second page to your final project
 
 For your Open API page, you will code an additional html, css and javascript file.  These can reside in the same directories as your current files.  In order to link this page to your current portfolio page, simply add a link to the html file in your nav bar like this:
 
@@ -43,3 +45,7 @@ For your Open API page, you will code an additional html, css and javascript fil
 ```
 
 You will also  create another nav bar on your open api page.  Make sure there is an option to get back to your home page from there!
+
+## Here is the rubric for the Open API portion of your final project:
+
+[Open API Rubric](https://github.com/Code-the-Dream-School/intro-to-programming-2026/wiki/Open-API-Rubric)
